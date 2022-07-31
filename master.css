@@ -1,0 +1,210 @@
+/*------------------------------
+=BASIC SETUP
+------------------------------*/
+
+/* Makeshift CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Tell the browser to render HTML 5 elements as block */
+header, footer, section, aside, nav, article {
+	display: block;
+}
+
+body {
+	margin: 0 auto;
+	padding: 20px;
+	width: 940px;
+	font: 13px/22px Helvetica, Arial, sans-serif;
+	background: white;
+}
+
+
+h1 {
+	font-size: 18px;
+	line-height: 30px;
+	padding: 0px 0;
+	font-weight: thick;
+}
+
+h2 {
+	font-size: 15px;
+	line-height: 44px;
+	padding: 0;
+	font-weight: thick;
+}
+
+
+h3 {
+	font-size: 13px;
+	line-height: 22px;
+	padding: 0px;
+	font-weight: thick;
+}
+
+h4 {
+	font-size: 13px;
+	line-height: 22px;
+	padding: 0px;
+	font-weight: normal;
+}
+
+p {
+	padding-bottom: 8px;
+}
+
+p.bletter {
+     float: left;
+     height: 45px;
+     margin-top: -20px;
+     padding-top: 45px;
+     margin-bottom: -35px;
+     padding-right: -10px;
+     margin-right: 10px;
+     font-size: 500%;
+ }
+ 
+ td {
+ 	min-width: 100px;
+ 	max-width: 570px;
+ 	padding-right: 5px;
+ 	padding-left: 5px;
+ 	padding-top: 0px;
+ 	padding-bottom: 0px;
+ }
+ 
+ ul {
+ 	margin: 0 0 0 22px;
+ }
+
+/*------------------------------
+=CONTENT AREA AND SIDEBAR LAYOUT
+------------------------------*/
+
+#content {
+	display: table;
+}
+	aside {
+        display: table-cell;
+		width: 225px;
+		vertical-align: top;
+	}
+	
+	#mainContent {
+    
+		display: table-cell;
+		width: 500px;
+		
+		border-width: 0px;
+		padding: 0px;
+		padding-left: 20px;
+		background-color: white;
+	}
+	
+	#wideContent {
+    
+		display: table-cell;
+		width: 900px;
+		
+		border-width: 0px;
+		padding: 0px;
+		padding-left: 20px;
+		background-color: white;
+	}
+	
+	
+
+/*------------------------------
+=BLOG POST
+------------------------------*/
+
+
+.blogPost figure.right {
+	margin-top: 0px;
+    margin-bottom: 22px;
+    float: right;
+}
+
+.blogPost figcaption {
+	font-style: italic;
+	text-align: right;
+}
+
+.blogPost img {
+    margin: 0px;
+    float: center;
+}
+
+.blogPost ul {
+		margin: 0 0 0px 22px;
+		list-style: none;
+	}
+.blogPost ul li {
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+.blogPost ol {
+		margin: 0 0 20px 22px;
+		font-size: 11px;
+	}
+.blogPost a:link {
+        text-decoration: underline;
+        color: black;
+    }
+    
+.blogPost a:visited {
+        text-decoration: underline;
+        font-weight: normal;
+        color: black;
+    }
+
+.blogPost a:hover{
+    	text-decoration: underline;
+    	color: blue;
+    }
+
+.blogPost iframe{
+	border: 0;
+}
+
+/*------------------------------
+=SIDEBAR
+------------------------------*/
+aside section {
+	margin: 0px;
+	margin-bottom: 10px;
+	padding: 0px;
+	background: white;
+}
+
+	aside section h3 {
+		color: black;
+	}
+	aside section ul {
+		margin-left: 5px;
+		list-style: none;
+	}
+	
+		aside section ul li a {
+			display: block;
+			text-decoration: underline;
+			color: black;
+		}
+		
+			aside section ul li a:hover {
+				text-decoration: underline;
+				color: blue;
+				margin-left: 5px;
+			}
+
+@media (prefers-color-scheme: dark) {
+  .day.dark-scheme   { background:  #333; color: white; }
+  .night.dark-scheme { background: black; color:  #ddd; }
+}
+
+
+table td, table td * {
+    vertical-align: top;
+}
