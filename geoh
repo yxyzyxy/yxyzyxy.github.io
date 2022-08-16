@@ -1,0 +1,103 @@
+<!doctype html> 
+<html>  
+<head>  
+     <title>Geometry H</title>  
+     <link rel="stylesheet" href="master.css" type="text/css" media="screen" />
+</head>  
+<body> 
+	<div id="content">
+		<aside>
+			<section>
+				<h3>Young Kim</h3>
+				<h3>Valley Christian Schools</h3>
+			</section>
+			
+			<section>
+				<ul>
+					<li><a href="index.html">home</a></li>
+					<li><a href="teaching.html">teaching</a></li>
+					<li><a href="math.html">math stuff</a></li>
+					<li><a href="random.html">random</a></li>
+				</ul>
+			</section>
+		</aside>
+		<div id="wideContent">
+			<section>
+				<article>	
+					<h1>Geometry Honours</h1>
+					<h1>2022-2023</h1>
+					<br>
+										
+					<table>
+						<tr>
+							<td><b>Instructor:</b></td>
+							<td>Young Kim (call me "Young")</td>
+						</tr>
+						<tr> 
+							<td> </td>
+						<td>Classroom: Science Research Center 103<br> E-mail: ykim@valleychristianschools.org&nbsp;</td>
+					</tr>
+					<td> </td>
+					<tr>
+						<td><b>Classes:</b></td>
+						<td>Period 6 (MTuTh)</br> M 1:25-2:15; Tu 1:45-3:15; Th 12:45-2:15</td>
+					</tr>
+
+
+					<tr>
+						<td><b>Class Syllabus:</b></td>
+						<td>See <a href="geoHSyllabus.pdf" target=”_blank” > here</a> for class rules and syllabus.</td>
+					</tr>
+				<td> </td>
+				<p>
+				</p></table>
+					<table>
+					<tr>
+						<td><b>Course content:</b></td>
+						<td>We will discuss logic, proofs, and study how to write a good mathematical proof. We then study geometric constructions (lines, angles, triangles, polygons, circles) and use basic algebra and geometric arguments to prove observations we make. 
+						In the second semester, we extend our study to higher dimensions, geometric transformations, basic analytic geometry, and trigonometry. 
+						</td>
+					</tr>
+				</table>
+				<table>
+					<tr>
+						<td><b>Main text:</b></td>	
+						<td>R. Larson, L. Boswell,, <i>Geometry</i>, Big Ideas Learning.</br>
+						</td>
+					</tr>
+					
+					<tr>
+						<td><b>Other nice sources:</b></td>
+						<td>R. Rusczyk, <i>Introduction to Geometry</i>, the Art of Problem Solving.</td>
+					</tr></p>
+					</table>
+					<table>
+						<br>					
+					<tr>
+				<table>
+					<tr>
+						<td><b>Websites:</b></td>
+						<td>
+								Computation and graphing: <a href="https://www.wolframalpha.com/" target=”_blank”>Wolfram Alpha</a>, <a href="https://www.symbolab.com/" target=”_blank”>Symbolab</a><br> 
+								Graphing: <a href="https://www.desmos.com/calculator" target=”_blank”>Desmos</a> <br>
+								Sequences: <a href="https://oeis.org/" target=”_blank”>Sequences Encyclopedia (OEIS)</a> <br>
+							</td>
+							<td> 
+					</tr>
+				</table>
+
+						<br>					
+					<tr>
+						<td><b>Lectures & Notes</b></td>
+						<td> Student notes will be uploaded throughout the year (Lectures).</td>
+				</tr>
+				</table>
+
+
+					
+				</article>
+	 		</section>
+	 	</div>
+	</div>
+</body>  
+</html> 
