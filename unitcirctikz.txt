@@ -1,0 +1,48 @@
+\begin{tikzpicture} [&gt;=stealth, scale=1.75,
+% Toggle commenting on the next four lines for the completed unit circle:
+%angle/.style={draw,text=white,fill=white,minimum height=1cm, minimum width=1cm},
+%point/.style={white},
+angle/.style={fill=white},
+point/.style={},
+]
+    \draw [white] (-3.6,-3.6) rectangle (3.6,3.6);
+    \draw [thick,fill=white] (0,0) circle (3cm);
+    \draw [thick, ] (-3.3,0) -- (3.3,0);
+    \draw [thick, ] (0,-3.3) -- (0,3.3);
+    \draw (0,0) --  node [angle] {$90^\circ$} (90:3)
+                node[point, above right] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [angle] {\footnotesize{$180^\circ$}} (180:3)
+                node[point, above left] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [angle] {$270^\circ$} (270:3)
+                node[point, below right] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [angle] {\footnotesize{$0^\circ, 360^\circ$}} (0:3)
+                node[point, above right] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [angle] {$45^\circ$} (45:3)
+                node [point, above right] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [angle] {$135^\circ$} (135:3)
+                node [point, above left] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [angle] {$225^\circ$} (225:3)
+                node [point, below left] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [angle] {$315^\circ$} (315:3)
+                node [point, below right] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [near end, angle] {$30^\circ$} (30:3)
+                node [point, above right] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [near end, angle] {$60^\circ$} (60:3)
+                node [point, above right] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [near end, angle] {$120^\circ$} (120:3)
+                node [point, above left] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [near end, angle] {$150^\circ$} (150:3)
+                node [point, above left] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right)$};
+    \draw (0,0) --  node [near end, angle] {$210^\circ$} (210:3)
+                node [point, below left] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [near end, angle] {$240^\circ$} (240:3)
+                node [point, below left] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [near end, angle] {$300^\circ$} (300:3)
+                node [point, below right] {\Huge$ \left(\underline{\ \ },\underline{\ \  }\right) $};
+    \draw (0,0) --  node [near end, angle] {$330^\circ$} (330:3)
+                node [point, below right] {\Huge$\left(\underline{\ \ },\underline{\ \  }\right) $};
+ 
+    \foreach \n in {1,2,3,4}
+        \foreach \t in {0,30,45,60}
+            \fill (\n*90+\t:3) circle (0.03cm);
+\end{tikzpicture}
