@@ -14,15 +14,9 @@ redirect_from:
 * [AP Statistics](/apstats/)
 
 # Previous courses
-
-* Algebra 2, Valley Christian Schools, 2021-22, 2022-23
-* Algebra 2 Honors, Valley Christian Schools, 2021-22, 2022-23
-* Precalculus, Valley Christian Schools, 2021-22
-* AP Statistics, Valley Christian Schools, 2022-23
+Since joining Valley, I have taught Geometry, Geometry Honors, Algebra 2, Algebra 2 Honors, Precalculus, and AP Statistics.
 
 # Teaching elsewhere
-
-* Math 11A: Calculus with Applications (teaching assistant), taught by Martin Weissman, Fall 2020
-* Math 11B: Calculus with Applications (teaching assistant), taught by Andrew Korbin, Winter 2021
-* Math 201 Linear Algebra, (course assistant), taught by David Perkinson, Fall 2019
-* Math 111 Calculus (course assistant), taught by Jerry Shurman, Fall 2019
+At UC Santa Cruz, I was a teaching assistant for Math 11A and Math 11B Calculus with Applications, taught by Prof. Martin Weissman and Prof. Andrew Korbin, respectively. 
+During my final year at Reed College, I was a course assistant for Math 111 Calculus taught by Prof. Jerry Shurman and the course assistant for Math 201 Linear Algebra, taught by Prof. Dave Perkinson. 
+I've also tutored and graded coursework for a variety of math courses, ranging from calculus to abstract algebra. 
