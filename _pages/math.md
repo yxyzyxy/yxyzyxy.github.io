@@ -1,8 +1,8 @@
 ---
 permalink: /math/
-title: "research papers and notes"
+title: "Research and Writeups"
 author_profile: true
-excerpt: "research papers, exposition, and notes"
+excerpt: "Research papers, exposition, and notes"
 redirect_from: 
   - /research.html
   - /math.html
@@ -12,10 +12,10 @@ redirect_from:
 Most recently, I have been interested in algebraic geometry (shapes as polynomials), representation theory (shapes as matrices), and category theory (shapes as arrows). 
 Below, you will find my [research papers](#research-papers), my [expository writing](#expository-writing), and [recent talks](#recent-talks).
 
-# research papers
+## research papers
 
 * **Biased permutative equivariant categories**.  
-[Homology, Homotopy and Applications](http://dx.doi.org/10.4310/HHA.2021.v23.n1.a6). [arXiv:1907.00933](https://arxiv.org/abs/1907.00933).  
+[Homology, Homotopy and Applications](http://dx.doi.org/10.4310/HHA.2021.v23.n1.a6). [arXiv:1907.00933](https://arxiv.org/abs/1907.00933).
   <details>
   <summary>Abstract and coauthors.</summary>
 
@@ -23,7 +23,7 @@ Below, you will find my [research papers](#research-papers), my [expository writ
   </details>
 
 * **An Analogue of k-marked Durfee symbols for strongly unimodal sequences**.  
-[Integers 21](http://math.colgate.edu/~integers/vol21.html). [PDF](http://math.colgate.edu/~integers/v35/v35.pdf).  
+[Integers 21](http://math.colgate.edu/~integers/vol21.html). [arXiv:2009.10850](https://arxiv.org/abs/2009.10850).  
   <details>
     <summary>Abstract and coauthors.</summary>
     
@@ -32,22 +32,22 @@ Below, you will find my [research papers](#research-papers), my [expository writ
     We establish a multivariate rank generating function for these objects, which we study combinatorially. We conclude by discussing potential quantum modularity properties for this rank generating function at certain vectors of roots of unity. (With Savana Ammons, Laura Seaberg, and Holly Swisher.)
   </details>
   
-# expository writing
+## expository writing
 
 * **Resolutions of Rees Algebras**.  
 [PDF](/files/Kim_Young_Jin_2020_thesis.pdf).
   <details>
-    <summary>Abstract and coauthors.</summary>
+    <summary>Abstract.</summary>
     
-    My undergraduate thesis, completed under the guidance of Prof. Irena Swanson.
-    We relate the Rees algebra of an ideal $I$ to the syzygy of a graded module by looking at the minimal graded free resolutions of an ideal $I$ and trimming degree- $d$ strands of these resolutions, resulting in an upper bound on the Castelnuovo–Mumford regularity of $I^d$.
+    My undergraduate thesis, advised by Prof. [Irena Swanson](https://www.math.purdue.edu/~iswanso/).
+    We relate the Rees algebra of an ideal $I$ to the syzygy of a graded module by looking at the minimal graded free resolutions of the ideal $I$ and trimming degree- $d$ strands of these resolutions, resulting in an upper bound on the Castelnuovo–Mumford regularity of $I^d$.
   </details>
 
 * **Quantum Algorithm for Pell's Equation**.  
 [PDF](/files/quantumwriteup.pdf).
   <details>
     <summary>Abstract.</summary>
-
+    
   Expository notes on Hallgren's quantum algorithm for solving a quadratic diophantine equation (Pell's equation). Using a quantum Fourier transform over finitely generated abelian groups, Hallgren extended the Hidden Subgroup Problem to $\mathbb R$ and produced a quantum algorithm for Pell's equation that can be done in polynomial time. 
   </details>
 
@@ -76,8 +76,8 @@ Below, you will find my [research papers](#research-papers), my [expository writ
   </details>
   
   
-# recent talks
-* *Elliptic Functions, Curves, and Modular Forms*, 10 April 2018.  [Notes](/files/elliptictalk.pdf), [PDF](/files/ellipticabstract.pdf).
+## recent talks
+* **Elliptic Functions, Curves, and Modular Forms**, 10 April 2018.  [Notes](/files/elliptictalk.pdf), [PDF](/files/ellipticabstract.pdf).
   <details>
     <summary>Abstract.</summary>
 
@@ -89,11 +89,11 @@ their properties. This will give rise to a discussion about elliptic curves and 
 through this, we aim to motivate an elementary introduction to the theory of modular forms.
   </details>
  
-* *A Hitchhikers Guide to Riemann Surface Theory*, 2 December 2019. [Notes](/files/rstalknotes.pdf), [PDF](/files/rstalkabstract.pdf).
+* **A Hitchhikers Guide to Riemann Surface Theory**, 2 December 2019. [Notes](/files/rstalknotes.pdf), [PDF](/files/rstalkabstract.pdf).
   <details>
     <summary>Abstract.</summary>
 
-   Riemann surfaces are one dimensional complex manifolds and arise quite naturally as covering
+   Riemann surfaces are one-dimensional complex manifolds and arise quite naturally as covering
 spaces. Moreover, every compact Riemann surface is obtained from an algebraic equation! In
 this talk, we go through basic examples and properties of Riemann surfaces, building up to
 the Riemann-Hurwitz formula and the Riemann-Roch theorem. We will then show a few
