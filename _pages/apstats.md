@@ -17,6 +17,7 @@ redirect_from:
   * Additional Resources:
     * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
     * [AP Classroom](https://apclassroom.collegeboard.org/33/home)
+    * [Khan Academy](https://www.khanacademy.org/math/ap-statistics)
     * [AP Barron's](https://www.amazon.com/AP-Statistics-Premium-Practice-Barrons/dp/1506258921)
 
 ---
