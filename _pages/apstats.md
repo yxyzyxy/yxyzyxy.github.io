@@ -1,34 +1,56 @@
 ---
 permalink: /apstats/
-title: "ap stats"
+title: "AP Statistics"
 excerpt: "course page for statistics"
 author_profile: false
 redirect_from: 
   - /stats/
   - /apstats.html
 ---
+2023-2024
 
-[jump to current week](#week-1)  
-[math544.zulipchat.com](https://math544.zulipchat.com)
 
-  - Instructor: [Young Kim](yxyzyxy.github.io)
-  - Text: Introduction to Statistics
-  - [Course Information & Syllabus](/files/stats/apstatssyllabus.pdf)
-  - Additional Resources:
-  - [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
+[jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/apstatssyllabus.pdf)
+
+  * Instructor: [Young Kim](yxyzyxy.github.io)
+  * Text: [The Practice of Statistics](https://accounts.veracross.com/vcs/portals/login) by Starnes and Tabor, 6th edition (Log in required)
+  * Additional Resources:
+    * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
+    * [AP Classroom](https://apclassroom.collegeboard.org/33/home)
+    * [AP Barron's](https://www.amazon.com/AP-Statistics-Premium-Practice-Barrons/dp/1506258921)
 
 ---
 
 ## week 1
-*15 August -  18 August*
+### August 15- August 18
 **Tuesday**: Welcome, course policies
-  - Reading: [Syllabus](/files/544/544syllabus.pdf)
+  * Reading: [Syllabus](/files/stats/apstatssyllabus.pdf)
+  * Practice problems
+  * [Slides](/files/stats/apstats081523.pdf)
+    * [Period 3](/files/stats/apstats0815233.pdf)
+    * [Period 7](/files/stats/apstats0815237.pdf)
 
-**Wednesday**: Data Structures
-  - Reading: pp. 19-37
-  - [Handout](/files/stats/notes/handout01W.pdf)
+**Wednesday**: Review of Categorical and Quantitative Data
+  * Reading: pp. 11-17
+  * Practice problems
+  * [Slides](/files/stats/apstats081623.pdf)
+    * [Period 3](/files/stats/apstats0816233.pdf)
+    * [Period 7](/files/stats/apstats0816237.pdf)
   
-**Friday**: Naive Set Theory
-  - Reading: pp.11-17
-  - [Notes](/files/544/notes/day02.pdf)
-  - Homework due: [Welcome survey](https://forms.gle/jUHHdRV1w1NRV15A6)
+**Friday**: Random variables
+  * Reading: Random variables
+  * Practice problems
+  * [Slides](/files/stats/apstats081823.pdf)
+    * [Period 3](/files/stats/apstats0818233.pdf)
+    * [Period 7](/files/stats/apstats0818237.pdf)
+   
+## week 2
+### August 20 - August 25
+**Monday**: summer reading quiz
+
+**Wednesday** Sets and random variables
+ * Reading: Random variables
+  * Practice problems
+  * [Slides](/files/stats/apstats082223.pdf)
+    * [Period 3](/files/stats/apstats0822233.pdf)
+    * [Period 7](/files/stats/apstats0822237.pdf)
