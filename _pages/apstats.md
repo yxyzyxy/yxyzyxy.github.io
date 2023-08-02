@@ -13,7 +13,7 @@ redirect_from:
 [jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/apstatssyllabus.pdf)
 
   * Instructor: [Young Kim](yxyzyxy.github.io)
-  * Text: [The Practice of Statistics](https://accounts.veracross.com/vcs/portals/login) by Starnes and Tabor, 6th edition (Log in required)
+  * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
   * Additional Resources:
     * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
     * [AP Classroom](https://apclassroom.collegeboard.org/33/home)
