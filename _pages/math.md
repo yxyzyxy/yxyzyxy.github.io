@@ -9,7 +9,7 @@ redirect_from:
   - /publications/
 ---
 
-Most recently, I have been interested in algebraic geometry (shapes as polynomials), representation theory (shapes as matrices), and category theory (shapes as arrows). 
+Most recently, I have been interested in algebraic geometry, representation theory, and category theory. 
 Below, you will find my [research papers](#research-papers), my [expository writing](#expository-writing), and [recent talks](#recent-talks).
 
 ## research papers
@@ -39,7 +39,7 @@ Below, you will find my [research papers](#research-papers), my [expository writ
   <details>
     <summary>Abstract.</summary>
     
-    My undergraduate thesis, advised by Prof. [Irena Swanson](https://www.math.purdue.edu/~iswanso/).
+    My undergraduate thesis, advised by Prof. Irena Swanson.
     We relate the Rees algebra of an ideal $I$ to the syzygy of a graded module by looking at the minimal graded free resolutions of the ideal $I$ and trimming degree- $d$ strands of these resolutions, resulting in an upper bound on the Castelnuovo–Mumford regularity of $I^d$.
   </details>
 
@@ -59,22 +59,14 @@ Below, you will find my [research papers](#research-papers), my [expository writ
    Notes on synthetic differential geometry and how basic results in calculus can be somewhat recovered using intuitionistic logic. Supervised by Prof. Kálmán Cziszter.
   </details>
 
-* **Characters of GL(2) over Finite Fields**.  
+* **Representations of GL(2) over Finite Fields**.  
 [PDF](/files/quadratic_TNR.pdf).  
   <details>
     <summary>Abstract.</summary>
 
-   Notes on complex representations of $GL(2, \mathbb F_p )$ and studying the characters of the group via the Principle Series representations, the Jacquet module of a representation, and the dimension of cuspidal representations. We then move onto exploring Whittaker models to count the number of characters of $GL(2, \mathbb F_p)$. These notes are based on a Paul Garrett writeup (https://www-users.cse.umn.edu/~garrett/m/repns/notes_2014-15/04_finite_GL2.pdf). 
+   Notes on complex representations of $GL(2, \mathbb F_q )$ using parabolic induction and the Principal Series representation. 
   </details>
 
-* **Critical Numbers of Groups**.  
-[PDF](/files/Combi_Project.pdf).  
-  <details>
-    <summary>Abstract.</summary>
-
-   Lagrange's four square theorem states that any positive integer $n$, we can find $x,y,z,w\in\mathbb N$ such that $x^2 + y^2 + z^2 + w^2 = n$. In other words, we can express $\mathbb Z^+$ as 4-fold sumset of $S$ where $S = \lbrace x^2\mid x\in\mathbb N\rbrace$. If $G$ is a group, the critical number of $G$ is defined to be the minimal integer $m$ such that any $m$-element subset $S\subset G$, we can express $G = hS$ for some positive integer $h$. Using Dyson transforms and the Erdős-Heilbronn conjecture, we compute the critical number of finite abelian groups of prime order.
-  </details>
-  
   
 ## recent talks
 * **Elliptic Functions, Curves, and Modular Forms**, 10 April 2018.  [Notes](/files/elliptictalk.pdf), [PDF](/files/ellipticabstract.pdf).
