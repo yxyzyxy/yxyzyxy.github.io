@@ -28,25 +28,22 @@ redirect_from:
   * Reading: [Syllabus](/files/stats/apstatssyllabus.pdf)
   * Practice problems
   * [Slides](/files/stats/apstats081523.pdf)
-    > [Period 3](/files/stats/apstats0815233.pdf)
-    
-    > [Period 7](/files/stats/apstats0815237.pdf)
+    * [Period 3](/files/stats/apstats0815233.pdf)
+    * [Period 7](/files/stats/apstats0815237.pdf)
 
 **Wednesday**: Review of Categorical and Quantitative Data
   * Reading: pp. 11-17
   * Practice problems
   * [Slides](/files/stats/apstats081623.pdf)
-    > [Period 3](/files/stats/apstats0816233.pdf)
-    
-    > [Period 7](/files/stats/apstats0816237.pdf)
+    * [Period 3](/files/stats/apstats0816233.pdf)
+    * [Period 7](/files/stats/apstats0816237.pdf)
   
 **Friday**: Random variables
   * Reading: Random variables
   * Practice problems
   * [Slides](/files/stats/apstats081823.pdf)
-    > [Period 3](/files/stats/apstats0818233.pdf)
-    
-    > [Period 7](/files/stats/apstats0818237.pdf)
+    * [Period 3](/files/stats/apstats0818233.pdf)
+    * [Period 7](/files/stats/apstats0818237.pdf)
    
 ## week 2
 ### August 20 - August 25
@@ -56,6 +53,5 @@ redirect_from:
  * Reading: Random variables
   * Practice problems
   * [Slides](/files/stats/apstats082223.pdf)
-    > [Period 3](/files/stats/apstats0822233.pdf)
-
-    > [Period 7](/files/stats/apstats0822237.pdf)
+    * [Period 3](/files/stats/apstats0822233.pdf)
+    * [Period 7](/files/stats/apstats0822237.pdf)
