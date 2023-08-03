@@ -26,26 +26,34 @@ redirect_from:
 **Tuesday**: Welcome, course policies
   * Handouts: [Syllabus](/files/stats/alg2syllabus.pdf)
   * Practice problems
-  > Notes [Period 4](/files/alg2/0815234.pdf) [Period 6](/files/alg2/0815236.pdf)
+  * Notes:
+    * [Period 4](/files/alg2/0815234.pdf)
+    * [Period 6](/files/alg2/0815236.pdf)
 
 **Wednesday**: Review of Arithmetic
   * Reading: TBD
   * Problem Set 1
-  > [Period 4](/files/alg2/0816234.pdf) | [Period 6](/files/alg2/0816236.pdf)
+  * Notes:
+    * [Period 4](/files/alg2/0815234.pdf)
+    * [Period 6](/files/alg2/0815236.pdf)
   
 **Thursday**: Algebra Review
   * Reading: TBD
   * Problem Set 2
-  > Notes: [Period 4](/files/alg2/0817234.pdf) | [Period 6](/files/alg2/0817236.pdf)
-   
+  * Notes:
+    * [Period 4](/files/alg2/0815234.pdf)
+    * [Period 6](/files/alg2/0815236.pdf)
+       
 ## week 2
 ### August 20 - August 25
 **Monday**: 
 * Reading: TBD
   * Problem Set 3
-  > Notes: [Period 4](/files/alg2/0820234.pdf) | [Period 6](/files/alg2/0816236.pdf)
+    * [Period 4](/files/alg2/0815234.pdf)
+    * [Period 6](/files/alg2/0815236.pdf)
 
 **Tuesday** Arithmetic Sequences
  * Reading: TBD
   * Problem Set 4
-  > Notes: [Period 4](/files/alg2/0822234.pdf) | [Period 6](/files/alg2/0822237.pdf)
+    * [Period 4](/files/alg2/0815234.pdf)
+    * [Period 6](/files/alg2/0815236.pdf)
