@@ -24,36 +24,37 @@ redirect_from:
 ## week 1
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
-  * Handouts: [Syllabus](/files/stats/alg2syllabus.pdf)
+  * Handouts: [Syllabus](/files/2324alg2syllabus.pdf)
   * Practice problems
   * Notes:
     * [Period 4](/files/alg2/0815234.pdf)
     * [Period 6](/files/alg2/0815236.pdf)
 
-**Wednesday**: Review of Arithmetic
-  * Reading: TBD
+**Wednesday**: Readiness exam
+
+**Thursday**: Course overview, variables
+  * Reading: NA
   * Problem Set 1
-  * Notes:
-    * [Period 4](/files/alg2/0815234.pdf)
-    * [Period 6](/files/alg2/0815236.pdf)
-  
-**Thursday**: Algebra Review
-  * Reading: TBD
-  * Problem Set 2
   * Notes:
     * [Period 4](/files/alg2/0815234.pdf)
     * [Period 6](/files/alg2/0815236.pdf)
        
 ## week 2
-### August 20 - August 25
-**Monday**: 
+### August 21 - August 25
+**Monday**: Variables and Equations
 * Reading: TBD
-  * Problem Set 3
-    * [Period 4](/files/alg2/0815234.pdf)
-    * [Period 6](/files/alg2/0815236.pdf)
+  * Problem Set 2
+    * [Period 4](/files/alg2/0821234.pdf)
+    * [Period 6](/files/alg2/0821236.pdf)
 
-**Tuesday** Arithmetic Sequences
+**Tuesday** Sequences and Recursive formulas
  * Reading: TBD
-  * Problem Set 4
-    * [Period 4](/files/alg2/0815234.pdf)
-    * [Period 6](/files/alg2/0815236.pdf)
+  * Problem Set 3
+    * [Period 4](/files/alg2/0822234.pdf)
+    * [Period 6](/files/alg2/0822236.pdf)
+
+**Thursday** Closed forms
+ * Reading: TBD
+  * Problem Set 3
+    * [Period 4](/files/alg2/0824234.pdf)
+    * [Period 6](/files/alg2/0824236.pdf)
