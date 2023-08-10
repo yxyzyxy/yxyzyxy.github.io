@@ -27,27 +27,20 @@ redirect_from:
 **Tuesday**: Welcome, course policies
   * Reading: [Syllabus](/files/stats/apstatssyllabus.pdf)
   * Practice problems
-  * [Slides](/files/stats/apstats081523.pdf)
-    * [Period 3](/files/stats/apstats0815233.pdf)
-    * [Period 7](/files/stats/apstats0815237.pdf)
 
-**Wednesday**: Review of Categorical and Quantitative Data
-  * Reading: pp. 11-17
-  * Practice problems
-  * [Slides](/files/stats/apstats081623.pdf)
-    * [Period 3](/files/stats/apstats0816233.pdf)
-    * [Period 7](/files/stats/apstats0816237.pdf)
+**Wednesday**: Summer reading examination
   
-**Friday**: Random variables
-  * Reading: Random variables
-  * Practice problems
+**Friday**: Quantitative data
+  * Reading: TBD
+  * Problem Set 1
   * [Slides](/files/stats/apstats081823.pdf)
     * [Period 3](/files/stats/apstats0818233.pdf)
     * [Period 7](/files/stats/apstats0818237.pdf)
    
 ## week 2
 ### August 20 - August 25
-**Monday**: summer reading quiz
+**Monday**: Categorical Data
+  * Reading: TBD
 
 **Wednesday** Sets and random variables
  * Reading: Random variables
