@@ -26,28 +26,30 @@ redirect_from:
 ## week 1
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
-  * Handouts: [Syllabus](/files/stats/alg2hsyllabus.pdf)
-  * Practice problems
-  * [Notes](/files/alg2h/081523.pdf)
+  * Handouts: [Syllabus](/files/2324alg2hsyllabus.pdf)
+  * [Practice problems](/files/alg2hreadiness.pdf)
     
-**Wednesday**: Review of Arithmetic
+**Wednesday**: Readiness Test
+  * Reading: NA
+    
+**Thursday**: Course overview, variables
   * Reading: TBD
   * Problem Set 1
-  * [Notes](/files/alg2h/081623.pdf)
-    
-**Thursday**: Algebra Review
-  * Reading: TBD
-  * Problem Set 2
   * [Notes](/files/alg2h/081723.pdf)
   
 ## week 2
-### August 20 - August 25
-**Monday**: 
+### August 21 - August 25
+**Monday**: Equations, algebra review
+  * Reading: TBD
+  * Problem Set 2
+  * [Notes](/files/alg2h/082123.pdf)
+
+**Tuesday** Sequences and Recursion
   * Reading: TBD
   * Problem Set 3
-  * [Notes](/files/alg2h/082023.pdf)
+  * [Notes](/files/alg2h/082223.pdf)
 
-**Tuesday** Arithmetic Sequences
+**Thursday** Closed form equations for sequences
   * Reading: TBD
-  * Problem Set 4
-  * [Notes](/files/alg2h/082123.pdf)
+  * Problem Set 3
+  * [Notes](/files/alg2h/082223.pdf)
