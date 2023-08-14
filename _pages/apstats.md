@@ -15,18 +15,18 @@ redirect_from:
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
   * Additional Resources:
-    * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
     * [AP Classroom](https://apclassroom.collegeboard.org/33/home)
     * [Khan Academy](https://www.khanacademy.org/math/ap-statistics)
     * [AP Barron's](https://www.amazon.com/AP-Statistics-Premium-Practice-Barrons/dp/1506258921)
+    * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
 
 ---
 
 ## week 1
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
-  * Reading: [Syllabus](/files/stats/apstatssyllabus.pdf)
-  * Practice problems
+  * Reading: [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+  * [Practice problems](/files/stats/prelimprac.pdf)
 
 **Wednesday**: Summer reading examination
   
