@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/alg2hsyllabus.pdf)
+[jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
