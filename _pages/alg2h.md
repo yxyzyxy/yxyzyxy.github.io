@@ -26,7 +26,7 @@ redirect_from:
 ## week 1
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
-  * Handouts: [Syllabus](/files/2324alg2hsyllabus.pdf)
+  * Handouts: [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
   * [Practice problems](/files/alg2hreadiness.pdf)
     
 **Wednesday**: Readiness Test
