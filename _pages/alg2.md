@@ -25,10 +25,7 @@ redirect_from:
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
   * Handouts: [Syllabus](files/alg2/2324Alg2Syllabus.pdf)
-  * Practice problems
-  * Notes:
-    * [Period 4](/files/alg2/0815234.pdf)
-    * [Period 6](/files/alg2/0815236.pdf)
+  * [Practice problems](/files/alg2/2324alg2prelimpractice.pdf)
 
 **Wednesday**: Readiness exam
 
