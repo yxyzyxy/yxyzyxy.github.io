@@ -32,9 +32,9 @@ redirect_from:
 **Wednesday**: Readiness Test
   * Reading: NA
     
-**Thursday**: Course overview, variables
-  * Reading: TBD
-  * Problem Set 1
+**Thursday**: Course overview, sequences
+  * Reading: Pages 10-14 from [course notes](/files/moderngeom.pdf) for PEMDAS
+  * [Problem Set 1](/files/alg2h/2324alg2hhw01f.pdf)
   * [Notes](/files/alg2h/081723.pdf)
   
 ## week 2
