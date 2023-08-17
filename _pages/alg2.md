@@ -29,16 +29,16 @@ redirect_from:
 
 **Wednesday**: Readiness exam
 
-**Thursday**: Course overview, variables
-  * Reading: NA
-  * Problem Set 1
+**Thursday**: PEMDAS Review + Solving for x
+  * Reading: Pages 10-14 from [course notes](/files/moderngeom.pdf)
+  * [Problem Set 1](/files/alg2/2324alg2hw01f)
   * Notes:
     * [Period 4](/files/alg2/0815234.pdf)
     * [Period 6](/files/alg2/0815236.pdf)
        
 ## week 2
 ### August 21 - August 25
-**Monday**: Variables and Equations
+**Monday**: Conditional Equations, Equalities
 * Reading: TBD
   * Problem Set 2
     * [Period 4](/files/alg2/0821234.pdf)
