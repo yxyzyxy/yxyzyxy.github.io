@@ -18,7 +18,7 @@ redirect_from:
   * Additional Resources:
     * [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) by Spiegel and Moyer (Log in required)
     * [Khan Academy](https://www.khanacademy.org/math/algebra-home)
-    * [Course Notes](/files/moderngeom.pdf)
+    * [Course Notes](/files/alg2coursenotes.pdf)
     * [Mathematics for the International Student, Math HL Core](https://www.haesemathematics.com/books/mathematics-core-topics-hl)
   
 ---
@@ -33,7 +33,7 @@ redirect_from:
   * Reading: NA
     
 **Thursday**: Course overview, sequences
-  * Reading: Pages 10-14 from [course notes](/files/moderngeom.pdf) for PEMDAS
+  * Reading: Pages 10-12 from [course notes](/files/alg2coursenotes.pdf); Review Pages 2-6 for PEMDAS review
   * [Problem Set 1](/files/alg2h/2324alg2hhw01f.pdf)
   * [Notes](/files/alg2h/081723.pdf)
   
