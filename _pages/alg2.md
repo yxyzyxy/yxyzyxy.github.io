@@ -31,10 +31,10 @@ redirect_from:
 
 **Thursday**: PEMDAS Review + Solving for x
   * Reading: Pages 2-6 from [course notes](/files/alg2coursenotes.pdf)
-  * [Problem Set 1](/files/alg2/2324alghw01f.pdf)
+  * [Problem Set 1](/files/alg2/2324alghw01f.pdf), due Monday Aug 21
   * Notes:
-    * [Period 4](/files/alg2/0815234.pdf)
-    * [Period 6](/files/alg2/0815236.pdf)
+    * [Period 4](/files/alg2/081823p4.pdf)
+    * [Period 6](/files/alg2/081823p6.pdf)
        
 ## week 2
 ### August 21 - August 25
