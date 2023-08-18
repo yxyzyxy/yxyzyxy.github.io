@@ -35,7 +35,7 @@ redirect_from:
 **Thursday**: Course overview, sequences
   * Reading: Pages 10-12 from [course notes](/files/alg2coursenotes.pdf); Review Pages 2-6 for PEMDAS review
   * [Problem Set 1](/files/alg2h/2324alg2hhw01f.pdf)
-  * [Notes](/files/alg2h/081723.pdf)
+  * [Notes](/files/alg2h/081723hp2.pdf)
   
 ## week 2
 ### August 21 - August 25
