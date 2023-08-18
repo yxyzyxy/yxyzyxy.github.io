@@ -33,8 +33,8 @@ redirect_from:
 **Friday**: Introduction to Variable Types, Sets
   * [Problem Set 1](/files/stats/2324apstatshw01f.pdf)
   * [Notes](/files/stats/2324stats1.pdf)
-    * [Period 3](/files/stats/apstats0818233.pdf)
-    * [Period 7](/files/stats/apstats0818237.pdf)
+    * [Period 3](/files/stats/081823p3.pdf)
+    * [Period 7](/files/stats/081823p7.pdf)
    
 ## week 2
 ### August 20 - August 25
