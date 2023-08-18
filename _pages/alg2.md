@@ -31,7 +31,7 @@ redirect_from:
 
 **Thursday**: PEMDAS Review + Solving for x
   * Reading: Pages 10-14 from [course notes](/files/moderngeom.pdf)
-  * [Problem Set 1](files/alg2/2324alghw01f.pdf)
+  * [Problem Set 1](/files/alg2/2324alghw01f.pdf)
   * Notes:
     * [Period 4](/files/alg2/0815234.pdf)
     * [Period 6](/files/alg2/0815236.pdf)
