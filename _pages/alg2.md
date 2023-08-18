@@ -17,7 +17,7 @@ redirect_from:
   * Additional Resources:
     * [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) by Spiegel and Moyer (Log in required)
     * [Khan Academy](https://www.khanacademy.org/math/algebra-home)
-    * [Course Notes](/files/moderngeom.pdf), to be updated throughout the year
+    * [Course Notes](/files/alg2coursenotes.pdf), to be updated throughout the year
   
 ---
 
@@ -30,7 +30,7 @@ redirect_from:
 **Wednesday**: Readiness exam
 
 **Thursday**: PEMDAS Review + Solving for x
-  * Reading: Pages 10-14 from [course notes](/files/moderngeom.pdf)
+  * Reading: Pages 2-6 from [course notes](/files/alg2coursenotes.pdf)
   * [Problem Set 1](/files/alg2/2324alghw01f.pdf)
   * Notes:
     * [Period 4](/files/alg2/0815234.pdf)
