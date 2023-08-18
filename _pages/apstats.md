@@ -30,20 +30,19 @@ redirect_from:
 
 **Wednesday**: Summer reading examination
   
-**Friday**: Quantitative data
-  * Reading: TBD
-  * Problem Set 1
-  * [Slides](/files/stats/apstats081823.pdf)
+**Friday**: Introduction to Variable Types, Sets
+  * [Problem Set 1](/files/stats/2324apstatshw01f.pdf)
+  * [Notes](/files/stats/2324stats1.pdf)
     * [Period 3](/files/stats/apstats0818233.pdf)
     * [Period 7](/files/stats/apstats0818237.pdf)
    
 ## week 2
 ### August 20 - August 25
-**Monday**: Categorical Data
+**Monday**: Describing Distributions
   * Reading: TBD
 
-**Wednesday** Sets and random variables
- * Reading: Random variables
+**Wednesday** Spread
+ * Reading: TBD
   * Practice problems
   * [Slides](/files/stats/apstats082223.pdf)
     * [Period 3](/files/stats/apstats0822233.pdf)
