@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-2) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -39,10 +39,10 @@ redirect_from:
   
 ## week 2
 ### August 21 - August 25
-**Monday**: Equations, algebra review
-  * Reading: TBD
-  * Problem Set 2
-  * [Notes](/files/alg2h/082123.pdf)
+**Monday**: Recursive Formulas
+  * Reading: Pages 11-14 from [course notes](/files/alg2coursenotes.pdf)
+  * [Problem Set 2](/files/alg2h/2324alg2hhw02f.pdf)
+  * [Notes](/files/alg2h/082123p2.pdf)
 
 **Tuesday** Sequences and Recursion
   * Reading: TBD
