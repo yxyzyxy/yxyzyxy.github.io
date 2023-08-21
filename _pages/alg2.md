@@ -30,7 +30,7 @@ redirect_from:
 **Wednesday**: Readiness exam
 
 **Thursday**: PEMDAS Review + Solving for x
-  * Reading: Pages 2-6 from [course notes](/files/alg2coursenotes.pdf)
+  * Reading: Pages 2-4 from [course notes](/files/alg2coursenotes.pdf)
   * [Problem Set 1](/files/alg2/2324alghw01f.pdf), due Monday Aug 21
   * Notes:
     * [Period 4](/files/alg2/081823p4.pdf)
@@ -39,10 +39,10 @@ redirect_from:
 ## week 2
 ### August 21 - August 25
 **Monday**: Conditional Equations, Equalities
-* Reading: TBD
-  * Problem Set 2
-    * [Period 4](/files/alg2/0821234.pdf)
-    * [Period 6](/files/alg2/0821236.pdf)
+* Reading: Pages 4-6 from [course notes](/files/alg2coursenotes.pdf)
+  * [Problem Set 2](/files/alg2/2324alg2hw02f.pdf)
+    * [Period 4](/files/alg2/082123p4.pdf)
+    * [Period 6](/files/alg2/082123p6.pdf)
 
 **Tuesday** Sequences and Recursive formulas
  * Reading: TBD
