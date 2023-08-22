@@ -44,12 +44,12 @@ redirect_from:
   * [Problem Set 2](/files/alg2h/2324alg2hhw02f.pdf)
   * [Notes](/files/alg2h/082123p2.pdf)
 
-**Tuesday** Sequences and Recursion
-  * Reading: TBD
-  * Problem Set 3
-  * [Notes](/files/alg2h/082223.pdf)
+**Tuesday** Arithmetic Sequences, Recursion, Function notation
+  * Reading: Pages 14-17 from [course notes](/files/alg2coursenotes.pdf)
+  * [Problem Set 3](/files/alg2h/2324alg2hhw03f.pdf)
+  * [Notes](/files/alg2h/082223p2.pdf)
 
-**Thursday** Closed form equations for sequences
+**Thursday** Closed forms, Arithmetic Sequences
   * Reading: TBD
-  * Problem Set 3
+  * Problem Set 4
   * [Notes](/files/alg2h/082223.pdf)
