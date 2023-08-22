@@ -44,14 +44,8 @@ redirect_from:
     * [Period 4](/files/alg2/082123p4.pdf)
     * [Period 6](/files/alg2/082123p6.pdf)
 
-**Tuesday** Sequences and Recursive formulas
- * Reading: TBD
-  * Problem Set 3
-    * [Period 4](/files/alg2/0822234.pdf)
-    * [Period 6](/files/alg2/0822236.pdf)
-
-**Thursday** Closed forms
- * Reading: TBD
-  * Problem Set 3
-    * [Period 4](/files/alg2/0824234.pdf)
-    * [Period 6](/files/alg2/0824236.pdf)
+**Tuesday** Distributive Laws, FOIL formulas
+ * Reading: NA
+  * [Problem Set 3](/files/alg2/2324alg2hw03f.pdf)
+    * [Period 4](/files/alg2/082223p4.pdf)
+    * [Period 6](/files/alg2/082223p6.pdf)
