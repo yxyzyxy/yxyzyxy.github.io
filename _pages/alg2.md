@@ -49,3 +49,8 @@ redirect_from:
   * [Problem Set 3](/files/alg2/2324alg2hw03f.pdf)
     * [Period 4](/files/alg2/082223p4.pdf)
     * [Period 6](/files/alg2/082223p6.pdf)
+      
+**Thursday** FOIL practice, Functions
+  * [Problem Set 4](/files/alg2/2324alg2hw04f.pdf)
+    * [Period 4](/files/alg2/082423p4.pdf)
+    * [Period 6](/files/alg2/082423p6.pdf)
