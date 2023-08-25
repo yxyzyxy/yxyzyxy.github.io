@@ -50,6 +50,7 @@ redirect_from:
   * [Notes](/files/alg2h/082223p2.pdf)
 
 **Thursday** Closed Forms, FOIL
-  * Reading: TBD
-  * [Problem Set 4](/files/alg2/2324alg2hw04f.pdf)
+  * Reading: NA
+  * Quiz on Tuesday! (FOIL, functions)
+  * [Problem Set 4](/files/alg2/2324alg2hhw04f.pdf), due Tuesday
   * [Notes](/files/alg2h/082423p2.pdf)
