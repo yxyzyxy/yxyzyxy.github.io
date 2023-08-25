@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-2) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -38,12 +38,20 @@ redirect_from:
    
 ## week 2
 ### August 20 - August 25
-**Monday**: Describing Distributions
-  * Reading: TBD
+**Monday**: Describing Distributions SOCS/CUSS
+  * [Notes](/files/stats/2324stats2.pdf)
+    * [Period 3](/files/stats/082123p3.pdf)
+    * [Period 7](/files/stats/082123p7.pdf)
+   
 
-**Wednesday** Spread
- * Reading: TBD
-  * Practice problems
-  * [Notes](/files/stats/2324apstats2.pdf)
-    * [Period 3](/files/stats/082223p3.pdf)
-    * [Period 7](/files/stats/082223p7.pdf)
+**Wednesday** Unusual Features, Percentiles ranking
+  * [Notes](/files/stats/2324stats3.pdf)
+    * [Period 3](/files/stats/082323p3.pdf)
+    * [Period 7](/files/stats/082323p7.pdf)
+   
+
+**Friday** Probability Distributions, Cumulative Distributions, z-scores
+  * [Notes](/files/stats/2324stats4.pdf)
+    * [Period 3](/files/stats/082523p3.pdf)
+    * [Period 7](/files/stats/082523p7.pdf)
+   
