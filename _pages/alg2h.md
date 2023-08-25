@@ -52,5 +52,5 @@ redirect_from:
 **Thursday** Closed Forms, FOIL
   * Reading: NA
   * Quiz on Tuesday! (FOIL, functions)
-  * [Problem Set 4](/files/alg2/2324alg2hhw04f.pdf), due Tuesday
+  * [Problem Set 4](/files/alg2h/2324alg2hhw04f.pdf), due Tuesday
   * [Notes](/files/alg2h/082423p2.pdf)
