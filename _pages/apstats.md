@@ -44,6 +44,6 @@ redirect_from:
 **Wednesday** Spread
  * Reading: TBD
   * Practice problems
-  * [Slides](/files/stats/apstats082223.pdf)
-    * [Period 3](/files/stats/apstats0822233.pdf)
-    * [Period 7](/files/stats/apstats0822237.pdf)
+  * [Notes](/files/stats/2324apstats2.pdf)
+    * [Period 3](/files/stats/082223p3.pdf)
+    * [Period 7](/files/stats/082223p7.pdf)
