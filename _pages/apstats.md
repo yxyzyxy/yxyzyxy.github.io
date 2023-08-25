@@ -50,8 +50,9 @@ redirect_from:
     * [Period 7](/files/stats/082323p7.pdf)
    
 
-**Friday** Probability Distributions, Cumulative Distributions, z-scores
+**Friday** Percentiles (5 point summary), Probability Distributions
   * [Notes](/files/stats/2324stats4.pdf)
+  * Problem Set 2 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
     * [Period 3](/files/stats/082523p3.pdf)
     * [Period 7](/files/stats/082523p7.pdf)
    
