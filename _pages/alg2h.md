@@ -66,7 +66,7 @@ redirect_from:
 **Tuesday** FOIL exam, Lines Introduction
   * Reading: NA
   * No HW tonight!
-  * [Notes](/files/alg2h/082223p2.pdf)
+  * [Notes](/files/alg2h/082923p2.pdf)
 
 **Thursday** Functions, graphs, line equation
   * Reading: NA
