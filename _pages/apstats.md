@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-2) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-3) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -56,3 +56,21 @@ redirect_from:
     * [Period 3](/files/stats/082523p3.pdf)
     * [Period 7](/files/stats/082523p7.pdf)
    
+## week 3
+### August 28 - September 1
+**Monday**: Uniform Distributions, Cumulative Distribution Functions
+  * [Notes](/files/stats/2324stats5.pdf)
+    * [Period 3](/files/stats/082823p3.pdf)
+    * [Period 7](/files/stats/082823p7.pdf)
+   
+
+**Wednesday** Z-Scores, Normal Distributions
+  * [Notes](/files/stats/2324stats6.pdf)
+    * [Period 3](/files/stats/083023p3.pdf)
+    * [Period 7](/files/stats/083023p7.pdf)
+   
+
+**Friday** Unit 1 Review   
+  * [Notes](/files/stats/2324stats7.pdf)
+    * [Period 3](/files/stats/090123p3.pdf)
+    * [Period 7](/files/stats/090123p7.pdf)
