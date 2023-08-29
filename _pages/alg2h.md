@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-2) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-3) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -54,3 +54,21 @@ redirect_from:
   * Quiz on Tuesday! (FOIL, functions)
   * [Problem Set 4](/files/alg2h/2324alg2hhw04f.pdf), due Tuesday
   * [Notes](/files/alg2h/082423p2.pdf)
+
+
+## week 3
+### August 28 - September 1
+**Monday**: FOIL review, Closed forms for arithmetic sequences
+  * Extra practice material in: [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) Page 28 Q4.1 and Page 29 Q4.5
+  * [Problem Set 4](/files/alg2h/2324alg2hhw04f.pdf), due tomorrow
+  * [Notes](/files/alg2h/082823p2.pdf)
+
+**Tuesday** FOIL exam, Lines Introduction
+  * Reading: NA
+  * No HW tonight!
+  * [Notes](/files/alg2h/082223p2.pdf)
+
+**Thursday** Functions, graphs, line equation
+  * Reading: NA
+  * [Problem Set 5](/files/alg2h/2324alg2hhw05f.pdf)
+  * [Notes](/files/alg2h/083123p2.pdf)
