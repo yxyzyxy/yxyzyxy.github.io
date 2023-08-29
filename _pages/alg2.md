@@ -54,3 +54,24 @@ redirect_from:
   * [Problem Set 4](/files/alg2/2324alg2hw04f.pdf)
     * [Period 4](/files/alg2/082423p4.pdf)
     * [Period 6](/files/alg2/082423p6.pdf)
+
+
+       
+## week 3
+### August 28 - September 1
+**Monday**: FOIL review, Closed forms for arithmetic sequences
+  * Extra practice material in: [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) Page 28 Q4.1 and Page 29 Q4.5
+  * [Problem Set 4](/files/alg2h/2324alg2hw04f.pdf), due tomorrow
+  * [Notes](/files/alg2/082823p4.pdf)
+
+**Tuesday** FOIL exam, Function Graphs Introduction
+  * Reading: NA
+  * No HW tonight!
+    * [Period 4](/files/alg2/082923p4.pdf)
+    * [Period 6](/files/alg2/082923p6.pdf)
+
+**Thursday** Functions, graphs, line equation
+  * Reading: NA
+  * [Problem Set 5](/files/alg2h/2324alg2hw05f.pdf)
+    * [Period 4](/files/alg2/083123p4.pdf)
+    * [Period 6](/files/alg2/083123p6.pdf)
