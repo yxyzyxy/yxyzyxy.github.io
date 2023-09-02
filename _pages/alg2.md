@@ -72,6 +72,19 @@ redirect_from:
 
 **Thursday** Functions, graphs, line equation
   * Reading: NA
-  * [Problem Set 5](/files/alg2h/2324alg2hw05f.pdf)
+  * [Problem Set 5](/files/alg2/2324alg2hw05f.pdf)
     * [Period 4](/files/alg2/083123p4.pdf)
     * [Period 6](/files/alg2/083123p6.pdf)
+
+
+## week 4
+### September 4- September 8
+**Monday**: Labor Day
+  * No School!
+  * [Problem Set 5](/files/alg2h/2324alg2hw05f.pdf), due tomorrow
+
+**Tuesday** Review of Graphs, Lines in 2-Space
+  * Reading: NA
+
+**Thursday** Absolute Value and Absolute Value Equations
+  * Reading: NA
