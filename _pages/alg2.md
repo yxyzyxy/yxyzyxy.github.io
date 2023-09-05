@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-2) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-4) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -81,10 +81,14 @@ redirect_from:
 ### September 4- September 8
 **Monday**: Labor Day
   * No School!
-  * [Problem Set 5](/files/alg2h/2324alg2hw05f.pdf), due tomorrow
+  * [Problem Set 5](/files/alg2/2324alg2hw05f.pdf), due tomorrow
 
-**Tuesday** Review of Graphs, Lines in 2-Space
+**Tuesday** Review of Graphs, Absolute value and Absolute Value Equations
   * Reading: NA
+  * [Problem Set 6](/files/alg2/2324alg2hw06f.pdf)
 
-**Thursday** Absolute Value and Absolute Value Equations
-  * Reading: NA
+
+**Thursday** Review of Absolute Values, Lines
+  * [Problem Set 6](/files/alg2/2324alg2hw06f.pdf)
+    * [Period 4](/files/alg2/090723p4.pdf)
+    * [Period 6](/files/alg2/090723p6.pdf)
