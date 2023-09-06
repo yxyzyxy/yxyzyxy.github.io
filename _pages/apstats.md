@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-3) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-4) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -58,19 +58,21 @@ redirect_from:
    
 ## week 3
 ### August 28 - September 1
-**Monday**: Uniform Distributions, Cumulative Distribution Functions
-  * [Notes](/files/stats/2324stats5.pdf)
+**Monday**: Uniform Distributions, Cumulative Distribution Functions  
+* Problem Set 2 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
+* [Notes](/files/stats/2324stats5.pdf)
     * [Period 3](/files/stats/082823p3.pdf)
     * [Period 7](/files/stats/082823p7.pdf)
    
 
 **Wednesday** Z-Scores, Normal Distributions
   * [Notes](/files/stats/2324stats6.pdf)
+  * [Problem Set 3](/files/stats/apstatshw03f.pdf)
     * [Period 3](/files/stats/083023p3.pdf)
     * [Period 7](/files/stats/083023p7.pdf)
    
 
-**Friday** Unit 1 Review   
-  * [Notes](/files/stats/2324stats7.pdf)
-    * [Period 3](/files/stats/090123p3.pdf)
-    * [Period 7](/files/stats/090123p7.pdf)
+**Friday** Unit 1 Review (FRQ Practice)
+  * FRQ available on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
+  * Exam next week!
+  * [Problem Set 3](/files/stats/apstatshw03f.pdf), due Wednesday
