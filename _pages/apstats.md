@@ -84,7 +84,7 @@ redirect_from:
 
 
 **Wednesday** Unit 1 Review
-  * [Practice Exam](/files/stats/apstatsPE1.pdf)
+  * [Review](/files/stats/APStatsPrac1.pdf)
 
 
 **Friday** Unit 1 Exam
