@@ -75,12 +75,12 @@ redirect_from:
 **Friday** Unit 1 Review (FRQ Practice)
   * FRQ available on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
   * Exam next week!
-  * [Problem Set 3](/files/stats/apstatshw03f.pdf), due Wednesday
+  * [Problem Set 3](/files/stats/2324apstatshw03f.pdf), due Wednesday
 
 ## week 4
 ### September 4- September 8
 **Monday**: Labor Day; No school! 
-* [Problem Set 3](/files/stats/apstatshw03f.pdf), due Wednesday
+* [Problem Set 3](/files/stats/2324apstatshw03f.pdf), due Wednesday
 
 
 **Wednesday** Unit 1 Review
