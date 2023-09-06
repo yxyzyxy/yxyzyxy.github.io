@@ -67,7 +67,7 @@ redirect_from:
 
 **Wednesday** Z-Scores, Normal Distributions
   * [Notes](/files/stats/2324stats6.pdf)
-  * [Problem Set 3](/files/stats/apstatshw03f.pdf)
+  * [Problem Set 3](/files/stats/2324apstatshw03f.pdf)
     * [Period 3](/files/stats/083023p3.pdf)
     * [Period 7](/files/stats/083023p7.pdf)
    
