@@ -76,3 +76,16 @@ redirect_from:
   * FRQ available on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
   * Exam next week!
   * [Problem Set 3](/files/stats/apstatshw03f.pdf), due Wednesday
+
+## week 4
+### September 4- September 8
+**Monday**: Labor Day; No school! 
+* [Problem Set 3](/files/stats/apstatshw03f.pdf), due Wednesday
+
+
+**Wednesday** Unit 1 Review
+  * [Practice Exam](/files/stats/apstatsPE1.pdf)
+
+
+**Friday** Unit 1 Exam
+  * No homework!
