@@ -94,7 +94,7 @@ redirect_from:
 ### September 11- September 15
 **Monday**: Correlation and Covariance
 * Problem Set 4 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
-* [Notes](/files/stats/2324apstats07.pdf)
+* [Notes](/files/stats/2324stats07.pdf)
     * [Period 3](/files/stats/091123p3.pdf)
     * [Period 7](/files/stats/091123p7.pdf)
 
