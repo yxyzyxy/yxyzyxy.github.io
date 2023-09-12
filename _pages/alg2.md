@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-5) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -88,7 +88,29 @@ redirect_from:
   * [Problem Set 6](/files/alg2/2324alg2hw06f.pdf)
 
 
-**Thursday** Review of Absolute Values, Lines
+**Thursday** Review of Absolute Values, Function Equality and Inequalities
   * [Problem Set 6](/files/alg2/2324alg2hw06f.pdf)
     * [Period 4](/files/alg2/090723p4.pdf)
     * [Period 6](/files/alg2/090723p6.pdf)
+   
+
+## week 5
+### September 11- September 15
+**Monday**: Unit 1 Review
+  * Exam on Thursday!
+  * [Review Set 1](/files/alg2/2324algunit1review.pdf)
+
+**Tuesday** Chapter 1 Review + Challenges
+  * Exam on Thursday!
+
+
+**Thursday** Unit 1 Exam
+  * [Exam Topics]
+
+## week 6
+### September 18- September 23
+**Monday**: Lines as functions
+  * [Problem Set 7](/files/alg2/2324alghw07f.pdf)
+
+**Tuesday** Parallel and Perpendicular Lines
+  * Reading: TBD
