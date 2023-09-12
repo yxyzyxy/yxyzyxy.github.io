@@ -85,4 +85,21 @@ redirect_from:
   * [Problem Set 6](/files/alg2h/2324alg2hhw06f.pdf)
 
 **Thursday** Unit 1 Review
+  * [Review Set 1](/files/alg2h/2324alg2hunit1review.pdf)
+
+    
+## week 5
+### September 11- September 15
+**Monday**: Chapter 1 Review
+  * [Review Set 1](/files/alg2h/2324alg2hunit1review.pdf)
+
+**Tuesday** Chapter 1 Exam
+
+**Thursday** Systems of Linear Equations
   * Reading: NA
+  * [Problem Set 7](/files/alg2h/2324alg2hhw06f.pdf)
+
+
+## week 6
+### September 18- September 23
+**Monday**: Systems of Linear Equations review, Matrices
