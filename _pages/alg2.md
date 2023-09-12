@@ -98,7 +98,7 @@ redirect_from:
 ### September 11- September 15
 **Monday**: Unit 1 Review
   * Exam on Thursday!
-  * [Review Set 1](/files/alg2/2324algunit1review.pdf)
+  * [Review Set 1](/files/alg2/2324alg2unit1review.pdf)
 
 **Tuesday** Chapter 1 Review + Challenges
   * Exam on Thursday!
