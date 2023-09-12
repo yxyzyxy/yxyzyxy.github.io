@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-5) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -89,3 +89,16 @@ redirect_from:
 
 **Friday** Unit 1 Exam
   * No homework!
+
+## week 5
+### September 11- September 15
+**Monday**: Correlation and Covariance
+* Problem Set 4 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
+* [Notes](/files/stats/2324apstats07.pdf), due Wednesday
+    * [Period 3](/files/stats/091123p3.pdf)
+    * [Period 7](/files/stats/091123p7.pdf)
+
+
+**Wednesday** Residuals, Linear Regressions
+
+**Friday** More Regressions, Outliers
