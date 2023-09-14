@@ -100,5 +100,15 @@ redirect_from:
 
 
 **Wednesday** Residuals, Linear Regressions
+* Problem Set 4 on [AP Classroom](https://apclassroom.collegeboard.org/33/home), due Friday
+* [Notes](/files/stats/2324stats08.pdf)
+    * [Period 3](/files/stats/091323p3.pdf)
+    * [Period 7](/files/stats/091323p7.pdf)
+* [Calculator instructions](https://www.statology.org/linear-regression-ti-84-calculator/) for linear regression
 
 **Friday** More Regressions, Outliers
+* [Problem Set 5](/files/stats/2324apstatshw05f.pdf)
+* [Extra Credit Project](/files/stats/LinRegParamProofEC.pdf)
+*  [Notes](/files/stats/2324stats08.pdf)
+    * [Period 3](/files/stats/091323p3.pdf)
+    * [Period 7](/files/stats/091323p7.pdf)
