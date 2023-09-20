@@ -90,16 +90,30 @@ redirect_from:
     
 ## week 5
 ### September 11- September 15
-**Monday**: Chapter 1 Review
+**Monday**: Unit 1 Review Set
   * [Review Set 1](/files/alg2h/2324alg2hunit1review.pdf)
 
 **Tuesday** Chapter 1 Exam
 
 **Thursday** Systems of Linear Equations
   * Reading: NA
-  * [Problem Set 7](/files/alg2h/2324alg2hhw06f.pdf)
+  * [Problem Set 7](/files/alg2h/2324alg2hhw07f.pdf)
+  * [Notes](/files/alg2h/091523p2.pdf)
 
 
 ## week 6
 ### September 18- September 23
 **Monday**: Systems of Linear Equations review, Matrices
+  * [Problem Set 7](/files/alg2h/2324alg2hhw07f.pdf)
+  * [Notes](/files/alg2h/091823p2.pdf)
+
+
+**Tuesday**: Determinants of nxn matrices
+  * [Problem Set 8](/files/alg2h/2324alg2hhw08f.pdf)
+  * [Notes](/files/alg2h/091923p2.pdf)
+
+**Thursday** Cramer's Rule, Linear Programming
+  * Reading: NA
+  * [Problem Set 9](/files/alg2h/2324alg2hhw09f.pdf)
+  * [Notes](/files/alg2h/092123p2.pdf)
+  * Quiz on Monday!
