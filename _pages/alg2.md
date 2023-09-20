@@ -105,12 +105,22 @@ redirect_from:
 
 
 **Thursday** Unit 1 Exam
-  * [Exam Topics]
 
 ## week 6
 ### September 18- September 23
 **Monday**: Lines as functions
-  * [Problem Set 7](/files/alg2/2324alghw07f.pdf)
-
+  * [Problem Set 7](/files/alg2/2324alg2hw07f.pdf)
+    * [Period 4](/files/alg2/091823p4.pdf)
+    * [Period 6](/files/alg2/091823p6.pdf)
+   
 **Tuesday** Parallel and Perpendicular Lines
-  * Reading: TBD
+  * [Problem Set 8](/files/alg2/2324alg2hw08f.pdf)
+    * [Period 4](/files/alg2/091923p4.pdf)
+    * [Period 6](/files/alg2/091923p6.pdf)
+   
+**Tuesday** Intersection of Lines and Planes
+  * [Problem Set 9](/files/alg2/2324alg2hw09f.pdf)
+  * Quiz on Monday!!
+    * [Period 4](/files/alg2/091923p4.pdf)
+    * [Period 6](/files/alg2/091923p6.pdf)
+  
