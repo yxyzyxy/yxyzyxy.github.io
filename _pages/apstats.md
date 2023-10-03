@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-5) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-8) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -131,3 +131,40 @@ redirect_from:
 
 **Friday**: FRQ Review + Practice tests
 * Review Set MCQ on [AP Classroom](https://apclassroom.collegeboard.org/33/home), due Monday
+
+
+
+## week 7
+### September 25- September 29
+**Monday**: Unit 2 Exam
+
+**Wednesday**: Ethical data collection
+  * [AI Art](https://www.youtube.com/watch?v=fIni6Eeg9rE) by TB Skyen
+  * Notes
+    * [Period 3](/files/stats/092723p3.pdf)
+    * [Period 7](/files/stats/092723p7.pdf)
+
+**Friday**: Observational Studies vs Experiments, Biases
+* [Problem Set 6](/files/stats/2324apstatshw06f.pdf), due Wednesday
+* [Notes](/files/stats/collectingdata.pdf)
+    * [Period 3](/files/stats/092923p3.pdf)
+ 
+
+## week 8
+### October 2- October 6
+**Monday**: Senior camping trip
+
+**Wednesday**: Good sampling methods, Experimental designs
+
+**Friday**: More on experimental designs, FRQ Practice
+
+
+
+## week 9
+### October 9- October 13
+**Monday**: Inference and Experiments
+
+**Wednesday**: Unit 3 Review, FRQ practice
+
+**Friday**: Unit 3 Exam
+
