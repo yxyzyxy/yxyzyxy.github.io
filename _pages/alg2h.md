@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-8) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -102,7 +102,7 @@ redirect_from:
 
 
 ## week 6
-### September 18- September 23
+### September 18- September 22
 **Monday**: Systems of Linear Equations review, Matrices
   * [Problem Set 7](/files/alg2h/2324alg2hhw07f.pdf)
   * [Notes](/files/alg2h/091823p2.pdf)
@@ -112,8 +112,35 @@ redirect_from:
   * [Problem Set 8](/files/alg2h/2324alg2hhw08f.pdf)
   * [Notes](/files/alg2h/091923p2.pdf)
 
-**Thursday** Cramer's Rule, Linear Programming
-  * Reading: NA
+**Thursday** Review for Quiz
+
+## week 7
+### September 25- September 29
+**Monday**: Quiz on Systems of Linear Equations
+   
+**Tuesday** Cramer's Rule, Matrix Multiplication
   * [Problem Set 9](/files/alg2h/2324alg2hhw09f.pdf)
-  * [Notes](/files/alg2h/092123p2.pdf)
-  * Quiz on Monday!
+  * [Notes](/files/alg2h/092623p2.pdf)
+   
+**Thursday** Matrix Addition, Scalar and Matrix Multiplication, Inverses
+  * [Problem Set 10](/files/alg2h/2324alg2hhw10f.pdf)
+  * [Notes](/files/alg2h/092823p2.pdf)
+
+
+## week 8
+### October 2- October 6
+**Monday**: Linear Programming
+  * [Problem Set 11](/files/alg2h/2324alg2hhw11f.pdf)
+  * [Notes](/files/alg2h/092823p2.pdf)
+
+**Tuesday** Unit 2 Review
+  * [Practice Exam](/files/alg2h/2324alg2prac2.pdf)
+  * Exam on Thursday!!
+     
+**Thursday** Unit 2 Exam
+  * Corrections for Unit 1 Exam, due Monday
+
+
+## week 9
+### October 9- October 13
+**Monday**: Introduction to Quadratics
