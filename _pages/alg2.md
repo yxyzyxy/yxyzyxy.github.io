@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-5) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-7) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -103,11 +103,11 @@ redirect_from:
 **Tuesday** Chapter 1 Review + Challenges
   * Exam on Thursday!
 
-
 **Thursday** Unit 1 Exam
 
+
 ## week 6
-### September 18- September 23
+### September 18- September 22
 **Monday**: Lines as functions
   * [Problem Set 7](/files/alg2/2324alg2hw07f.pdf)
     * [Period 4](/files/alg2/091823p4.pdf)
@@ -118,9 +118,43 @@ redirect_from:
     * [Period 4](/files/alg2/091923p4.pdf)
     * [Period 6](/files/alg2/091923p6.pdf)
    
-**Tuesday** Intersection of Lines and Planes
+**Thursday** Intersection of Lines and Planes (Substitution, Elimination)
   * [Problem Set 9](/files/alg2/2324alg2hw09f.pdf)
   * Quiz on Monday!!
     * [Period 4](/files/alg2/091923p4.pdf)
     * [Period 6](/files/alg2/091923p6.pdf)
   
+
+
+## week 7
+### September 25- September 29
+**Monday**: Quiz on lines and line equations
+   
+**Tuesday** Review of Substitution, Elimination, Matrix Row reduction
+  * [Problem Set 10](/files/alg2/2324alg2hw10f.pdf)
+    * [Period 4](/files/alg2/092623p4.pdf)
+    * [Period 6](/files/alg2/092623p6.pdf)
+   
+**Thursday** Matrix Row Reduction, Determinants
+  * [Problem Set 11](/files/alg2/2324alg2hw11f.pdf)
+    * [Period 4](/files/alg2/092823p4.pdf)
+    * [Period 6](/files/alg2/092823p6.pdf)
+
+
+## week 8
+### October 2- October 6
+**Monday**: Determinants, Cramer's Rule
+    * [Period 4](/files/alg2/100223p4.pdf)
+    * [Period 6](/files/alg2/100223p6.pdf)
+  
+**Tuesday** Unit 2 Review
+  * [Practice Exam](/files/alg2/2324alg2prac2.pdf)
+  * Exam on Thursday!!
+     
+**Thursday** Unit 2 Exam
+  * Corrections for Unit 1 Exam, due Monday
+
+
+## week 9
+### October 9- October 13
+**Monday**: Introduction to Quadratics
