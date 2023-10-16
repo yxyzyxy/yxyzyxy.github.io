@@ -143,4 +143,16 @@ redirect_from:
 
 ## week 9
 ### October 9- October 13
-**Monday**: Introduction to Quadratics
+**Tuesday**: Introduction to Quadratics
+  * [Notes](/files/alg2h/101023p2.pdf)
+
+**Thursday** Quadratics and Sign Charts
+  * [Notes](/files/alg2h/101223p2.pdf)
+
+**Friday** Unit 2 Test Corrections
+  * Test Corrections for Unit 2, due in class
+  * Last day of the quarter!
+
+## week 10
+### October 16- October 20
+**Wednesday**: Review of Quadratics
