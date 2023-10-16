@@ -148,13 +148,21 @@ redirect_from:
     * [Period 6](/files/alg2/100223p6.pdf)
   
 **Tuesday** Unit 2 Review
-  * [Practice Exam](/files/alg2/2324alg2prac2.pdf)
-  * Exam on Thursday!!
+    * [Practice Exam](/files/alg2/2324alg2prac2.pdf)
+    * Exam on Thursday!!
      
 **Thursday** Unit 2 Exam
-  * Corrections for Unit 1 Exam, due Monday
+    * Corrections for Unit 1 Exam, due Monday
 
 
 ## week 9
 ### October 9- October 13
-**Monday**: Introduction to Quadratics
+**Tuesday**: Introduction to Quadratics
+    * [Notes](/files/alg2/101023p2.pdf)
+
+**Thursday** Quadratics and Sign Charts
+    * [Notes](/files/alg2/101223p2.pdf)
+
+**Friday** Unit 2 Test Corrections
+    * Test Corrections for Unit 2, due in class
+    * Last day of the quarter!
