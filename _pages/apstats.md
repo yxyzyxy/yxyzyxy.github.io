@@ -145,8 +145,8 @@ redirect_from:
     * [Period 7](/files/stats/092723p7.pdf)
 
 **Friday**: Observational Studies vs Experiments, Biases
-* [Problem Set 6](/files/stats/2324apstatshw06f.pdf), due Wednesday
-* [Notes](/files/stats/collectingdata.pdf)
+  * [Problem Set 6](/files/stats/2324apstatshw06f.pdf), due Wednesday
+  * [Notes](/files/stats/collectingdata.pdf)
     * [Period 3](/files/stats/092923p3.pdf)
  
 
@@ -167,4 +167,53 @@ redirect_from:
 **Wednesday**: Unit 3 Review, FRQ practice
 
 **Friday**: Unit 3 Exam
+  * Final day of the quarter!
 
+
+## week 10
+### October 16- October 20
+**Monday + Tuesday** Parent-Teacher Conferences
+  * Bell schedule this week:
+    * Wednesdays: all classes
+    * Thursdays: evens
+    * Friday: odds
+    
+**Wednesday**: Basic Probability Rules
+  * Notes
+    * [Period 3](files/stats/101823p3.pdf)
+    * [Period 7](files/stats/101823p7.pdf)
+
+**Friday**: Conditional Probability, Multiple Events, Independence
+  * Notes
+    * [Period 3](files/stats/102023p3.pdf)
+    * [Period 7](files/stats/102023p7.pdf)
+    
+  
+## week 11
+### October 23- October 27
+**Monday**: Review of Probability Rules, Transformations of Random Variables
+  * Notes
+    * [Period 3](files/stats/102023p3.pdf)
+    * [Period 7](files/stats/102023p7.pdf)
+
+**Tuesday** Means, Variance Formulas for Transformations
+  * Notes
+    * [Period 3](files/stats/102023p3.pdf)
+    * [Period 7](files/stats/102023p7.pdf)
+
+**Thursday** Binomial Probability Distributions
+ * Notes
+    * [Period 3](files/stats/102023p3.pdf)
+    * [Period 7](files/stats/102023p7.pdf)
+      
+## week 12
+### October 30- November 3
+**Monday**: Binomial Probability and Geometric Distributions
+ * Notes
+    * [Period 3](files/stats/102023p3.pdf)
+    * [Period 7](files/stats/102023p7.pdf)
+  
+**Wednesday** Workday
+
+**Thursday** Review Day
+  * Exam on Monday
