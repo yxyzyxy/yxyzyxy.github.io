@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-8) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-12) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -155,4 +155,43 @@ redirect_from:
 
 ## week 10
 ### October 16- October 20
-**Wednesday**: Review of Quadratics
+**Monday + Tuesday** Parent-Teacher Conferences
+  * Bell schedule this week:
+    * Wednesdays: all classes
+    * Thursdays: evens
+    * Friday: odds
+  * [Problem Set 12](/files/alg2h/2324alg2hhw12f) due at tomorrow by end of class
+
+**Wednesday**: Quadratics Review of graphs and sign diagrams
+  * [Problem Set 12](/files/alg2h/2324alg2hhw12f) due at End of Class today!
+  * [Notes](/files/alg2h/101923p2.pdf)
+
+**Thursday**: Vertex Form; Completing the Square
+  *[Notes](/files/alg2h/101923p6.pdf)
+  *[Problem Set 13](/files/alg2h/2324alg2hhw13f), due Monday
+
+
+## week 11
+### October 23- October 27
+**Monday**: Review of quadratics, factoring review
+  * [Notes](/files/alg2h/102323p6.pdf)
+
+**Tuesday** Factoring
+  * [Notes](/files/alg2h/102423p6.pdf)
+  * [Problem Set 14](/files/alg2h/2324alg2hhw14f), Practice Quiz
+
+**Thursday** Factoring Quiz, Discriminants
+  * No Homework!
+
+## week 12
+### October 30- November 3
+**Monday**: Discriminants, Quadratic Formula
+  * [Notes](/files/alg2h/103023p4.pdf)
+  * [Problem Set 15](/files/alg2h/2324alg2hhw15f), due Tuesday
+
+**Tuesday** Intersection of Quadratics with lines and quadratics; Quadratic Equations, Word Problems with Quadratics
+  * [Notes](/files/alg2h/103123p6.pdf)
+
+**Thursday** Complex Numbers
+
+
