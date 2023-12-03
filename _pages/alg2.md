@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-12) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-17) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -20,6 +20,7 @@ redirect_from:
     * [Course Notes](/files/alg2coursenotes.pdf), to be updated throughout the year
   
 ---
+Warning: the uploaded in-class notes may contain errors either because of some in-class thought experiments, me being silly, etc. If you ever are unsure about something, feel free to ask me.
 
 ## week 1
 ### August 15- August 18
