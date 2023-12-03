@@ -249,13 +249,12 @@ Thanksgiving break!
   * [Problem Set 21](/files/alg2h/2324alg2hhw21f.pdf), due Monday
   * Test on Thursday!
 
-files/alg2h/2324alg2hhw21f.pdf
 ## week 17
 ### December 4- December 8
 **Monday**: Vieta's Formulas, Binomial Theorem
 
 **Tuesday** Review for Test
-  * Topics to be covere:
+  * Topics to be covered:
     * Addition, Subtraction, Multiplication of polynomials
     * End-behavior of polynomials, Degree
     * x-intercepts and multiplicity
@@ -263,9 +262,10 @@ files/alg2h/2324alg2hhw21f.pdf
     * Solving polynomial equations
     * Graphing polynomials and obtaining equation from graph
     * Binomial Theorem
+    * Vieta's Formulas
     * Polynomial inequalities
   
-**Thursday** Exam on Polynomials and Polynoimal Equations
+**Thursday** Exam on Polynomials and Polynomial Equations
 
 
 
