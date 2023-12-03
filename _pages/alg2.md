@@ -205,6 +205,7 @@ redirect_from:
 ## week 12
 ### October 30- November 3
 **Monday**: Discriminants, Quadratic Formula
+ * [Problem Set 16](/files/alg2/2324alg2hw16f.pdf), due Tuesday
   * [Period 4](/files/alg2/103023p4.pdf)
   * [Period 6](/files/alg2/103023p6.pdf)
 
@@ -213,3 +214,71 @@ redirect_from:
   * [Period 6](/files/alg2/103123p6.pdf)
 
 **Thursday** Complex Numbers
+  * [Problem Set 16](/files/alg2/2324alg2hw16f.pdf), due Tuesday
+    * [Period 4](/files/alg2/110323p4.pdf)
+    * [Period 6](/files/alg2/110323p6.pdf)
+
+## week 13
+### November 6- November 10
+**Monday**: Emergency Plans; Review of Complex Numbers
+
+**Tuesday** Review for Test Game
+
+**Thursday** Quadratic Equations and Quadratic Functions Exam
+
+## week 14
+### November 13- November 17
+**Monday**: Polynomials, Degree and End Behavior
+  * [Problem Set 17](/files/alg2/2324alg2hw17f.pdf), due Tuesday
+    * [Period 4](/files/alg2/111323p4.pdf)
+    * [Period 6](/files/alg2/111323p6.pdf)
+
+
+**Tuesday** Zeros, Roots, and their multiplicities; Matching polynomial equations to graphs
+  * [Problem Set 18](/files/alg2/2324alg2hw18f.pdf), due Tuesday
+    * [Period 4](/files/alg2/111423p4.pdf)
+    * [Period 6](/files/alg2/111423p6.pdf)
+  * Quiz on the Problem Set on Thursday!
+
+**Thursday** Quiz + Polynomial Equations
+  * Quiz today!
+    * x-intercepts and multiplicities, matching polynomials with graphs
+  * Corrections from Ch4 due today!
+  * [Video on Polynomial Equations](https://www.youtube.com/watch?v=cUzklzVXJwo)
+
+## week 15
+### November 20 - November 24
+Thanksgiving break!
+Extra Credit Poster on Quadratics due Monday.
+
+## week 16
+### November 27- December 1
+**Monday**: Emergency Plans; Addition, Subtraction, Multiplication of Polynomials
+  * Relevant video list:
+    * [Adding and subtracting polynomials](https://www.youtube.com/watch?v=ZGl2ExHwdak) by Khan Academy
+    * [Multiplying Polynomials](https://www.youtube.com/watch?v=yJzLYa-_Y1k) by Khan Academy
+  * [Problem Set 19](/files/alg2/2324alg2hw19f.pdf), due Tuesday
+
+
+**Tuesday** Fundamental Theorem of Algebra, Synthetic Division
+  * [Problem Set 20](/files/alg2/2324alg2hw20f.pdf), due Thursday
+    * [Period 4](/files/alg2/112823p4.pdf)
+    * [Period 6](/files/alg2/112823p6.pdf)
+  * Click [here](https://samuelj.li/complex-function-plotter/#z%5E) for the Complex-Zeros visual tool
+      
+**Thursday** Factor Theorem and Remainder Theorems
+  * [Problem Set 21](/files/alg2/2324alg2hw21f.pdf), due Monday
+    * [Period 4](/files/alg2/112823p4.pdf)
+    * [Period 6](/files/alg2/112823p6.pdf)
+  * Quiz on synthetic division on Monday!
+
+## week 17
+### December 4- December 8
+**Monday**: Quiz! + Rational Roots Theorem
+
+**Tuesday** Conjugate Roots Theorems (Complex and Irrational), Binomial Theorem
+
+**Thursday** Exam Review
+  * Exam on Monday!!
+
+
