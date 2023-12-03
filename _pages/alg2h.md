@@ -188,15 +188,15 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ### October 30- November 3
 **Monday**: Discriminants, Quadratic Formula
   * [Notes](/files/alg2h/103023p4.pdf)
-  * [Problem Set 15](/files/alg2h/2324alg2hhw15f), due Tuesday
+  * [Problem Set 15](/files/alg2h/2324alg2hhw15f.pdf), due Tuesday
 
 **Tuesday** Complex Numbers
   * [Notes](/files/alg2h/1031223p6.pdf)
-  * [Problem Set 16](/files/alg2h/2324alg2hhw16f), due Monday
+  * [Problem Set 16](/files/alg2h/2324alg2hhw16f.pdf), due Monday
 
 **Thursday** Review of Quadratics
-  * [Problem Set 16](/files/alg2h/2324alg2hhw16f), due Monday
-  * [Review Set](/files/alg2h/2324alg2hhw15f), due Tuesday
+  * [Problem Set 16](/files/alg2h/2324alg2hhw16f.pdf), due Monday
+  * [Review Set](/files/alg2h/2324alg2hhw15f.pdf), due Tuesday
 
 ## week 13
 ### November 6- November 10
@@ -210,11 +210,11 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ### November 13- November 17
 **Monday**: Polynomials, Degree and End Behavior
   * [Notes](/files/alg2h/111323p2.pdf)
-  * [Problem Set 17](/files/alg2h/2324alg2hhw17f), due Tuesday
+  * [Problem Set 17](/files/alg2h/2324alg2hhw17f.pdf), due Tuesday
 
 **Tuesday** Zeros, Roots, and their multiplicities; Matching polynomial equations to graphs
   * [Notes](/files/alg2h/111423p2.pdf)
-  * [Problem Set 18](/files/alg2h/2324alg2hhw18f), due Tuesday
+  * [Problem Set 18](/files/alg2h/2324alg2hhw18f.pdf), due Tuesday
   * Quiz on the Problem Set on Thursday!
 
 **Thursday** Quiz + Polynomial Equations
@@ -236,20 +236,20 @@ Thanksgiving break!
     * [Multiplying Polynomials](https://www.youtube.com/watch?v=yJzLYa-_Y1k) by Khan Academy
     * [Fundamental Theorem of Algebra](https://www.youtube.com/watch?v=d8-LO6FCna0) by Khan Academy
     * [Fundamental Theorem of Algebra](https://www.youtube.com/watch?v=shEk8sz1oOw) by Numberphile
-  * [Problem Set 19](/files/alg2h/2324alg2hhw19f), due Tuesday
+  * [Problem Set 19](/files/alg2h/2324alg2hhw19f.pdf), due Tuesday
 
 
 **Tuesday** Fundamental Theorem of Algebra, Synthetic Division, Remainder Theorem
-  * [Notes](/files/alg2h/103023p4.pdf)
+  * [Notes](/files/alg2h/113023p2.pdf)
   * Click [here](https://samuelj.li/complex-function-plotter/#z%5E) for the Complex-Zeros visual tool
-  * [Problem Set 20](/files/alg2h/2324alg2hhw20f), due Tuesday
+  * [Problem Set 20](/files/alg2h/2324alg2hhw20f.pdf), due Tuesday
 
 **Thursday** Factor Theorem, Rational Roos Theorem, Conjugate Roots Theorem (Complex and Irrational)
-  * [Notes](/files/alg2h/113023p2.pdf)
-  * [Problem Set 21](/files/alg2h/2324alg2hhw21f), due Monday
+  * [Notes](/files/alg2h/120123p2.pdf)
+  * [Problem Set 21](/files/alg2h/2324alg2hhw21f.pdf), due Monday
   * Test on Thursday!
 
-
+files/alg2h/2324alg2hhw21f.pdf
 ## week 17
 ### December 4- December 8
 **Monday**: Vieta's Formulas, Binomial Theorem
