@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-12) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-17) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -22,6 +22,7 @@ redirect_from:
     * [Mathematics for the International Student, Math HL Core](https://www.haesemathematics.com/books/mathematics-core-topics-hl)
   
 ---
+Warning: the uploaded in-class notes may contain errors either because of some in-class thought experiments, me being silly, etc. If you ever are unsure about something, feel free to ask me.
 
 ## week 1
 ### August 15- August 18
@@ -189,9 +190,85 @@ redirect_from:
   * [Notes](/files/alg2h/103023p4.pdf)
   * [Problem Set 15](/files/alg2h/2324alg2hhw15f), due Tuesday
 
-**Tuesday** Intersection of Quadratics with lines and quadratics; Quadratic Equations, Word Problems with Quadratics
-  * [Notes](/files/alg2h/103123p6.pdf)
+**Tuesday** Complex Numbers
+  * [Notes](/files/alg2h/1031223p6.pdf)
+  * [Problem Set 16](/files/alg2h/2324alg2hhw16f), due Monday
 
-**Thursday** Complex Numbers
+**Thursday** Review of Quadratics
+  * [Problem Set 16](/files/alg2h/2324alg2hhw16f), due Monday
+  * [Review Set](/files/alg2h/2324alg2hhw15f), due Tuesday
+
+## week 13
+### November 6- November 10
+**Monday**: Emergency Plans; Review of Complex Numbers
+
+**Tuesday** Review for Test Game
+
+**Thursday** Quadratic Equations and Quadratic Functions Exam
+
+## week 14
+### November 13- November 17
+**Monday**: Polynomials, Degree and End Behavior
+  * [Notes](/files/alg2h/111323p2.pdf)
+  * [Problem Set 17](/files/alg2h/2324alg2hhw17f), due Tuesday
+
+**Tuesday** Zeros, Roots, and their multiplicities; Matching polynomial equations to graphs
+  * [Notes](/files/alg2h/111423p2.pdf)
+  * [Problem Set 18](/files/alg2h/2324alg2hhw18f), due Tuesday
+  * Quiz on the Problem Set on Thursday!
+
+**Thursday** Quiz + Polynomial Equations
+  * Quiz today!
+    * x-intercepts and multiplicities, matching polynomials with graphs
+  * Corrections from Ch4 due today!
+  * [Video on Polynomial Equations](https://www.youtube.com/watch?v=cUzklzVXJwo)
+
+## week 15
+### November 20 - November 24
+Thanksgiving break!
+
+
+## week 16
+### November 27- December 1
+**Monday**: Emergency Plans; Addition, Subtraction, Multiplication of Polynomials, Fundamental Theorem of Algebra
+  * Relevant video list:
+    * [Adding and subtracting polynomials](https://www.youtube.com/watch?v=ZGl2ExHwdak) by Khan Academy
+    * [Multiplying Polynomials](https://www.youtube.com/watch?v=yJzLYa-_Y1k) by Khan Academy
+    * [Fundamental Theorem of Algebra](https://www.youtube.com/watch?v=d8-LO6FCna0) by Khan Academy
+    * [Fundamental Theorem of Algebra](https://www.youtube.com/watch?v=shEk8sz1oOw) by Numberphile
+  * [Problem Set 19](/files/alg2h/2324alg2hhw19f), due Tuesday
+
+
+**Tuesday** Fundamental Theorem of Algebra, Synthetic Division, Remainder Theorem
+  * [Notes](/files/alg2h/103023p4.pdf)
+  * Click [here](https://samuelj.li/complex-function-plotter/#z%5E) for the Complex-Zeros visual tool
+  * [Problem Set 20](/files/alg2h/2324alg2hhw20f), due Tuesday
+
+**Thursday** Factor Theorem, Rational Roos Theorem, Conjugate Roots Theorem (Complex and Irrational)
+  * [Notes](/files/alg2h/113023p2.pdf)
+  * [Problem Set 21](/files/alg2h/2324alg2hhw21f), due Monday
+  * Test on Thursday!
+
+
+## week 17
+### December 4- December 8
+**Monday**: Vieta's Formulas, Binomial Theorem
+
+**Tuesday** Review for Test
+  * Topics to be covere:
+    * Addition, Subtraction, Multiplication of polynomials
+    * End-behavior of polynomials, Degree
+    * x-intercepts and multiplicity
+    * Complex zeros vs Real zeros; Fundamental Theorem of Algebra
+    * Solving polynomial equations
+    * Graphing polynomials and obtaining equation from graph
+    * Binomial Theorem
+    * Polynomial inequalities
+  
+**Thursday** Exam on Polynomials and Polynoimal Equations
+
+
+
+
 
 
