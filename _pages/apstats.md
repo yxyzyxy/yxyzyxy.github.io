@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-8) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -21,8 +21,19 @@ redirect_from:
     * [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman
 
 ---
+# Spring Semester
+## week 1s
+### January 8- January 12
+**Monday** In-service day
 
-## week 1
+**Tuesday**: Welcome back! Review Normal Distributions, Sampling Distributions
+  
+**Friday**: Confidence intervals
+
+
+# Fall Semester
+
+## week 1f
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
   * Reading: [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
@@ -36,7 +47,7 @@ redirect_from:
     * [Period 3](/files/stats/081823p3.pdf)
     * [Period 7](/files/stats/081823p7.pdf)
    
-## week 2
+## week 2f
 ### August 20 - August 25
 **Monday**: Describing Distributions SOCS/CUSS
   * [Notes](/files/stats/2324stats2.pdf)
@@ -56,7 +67,7 @@ redirect_from:
     * [Period 3](/files/stats/082523p3.pdf)
     * [Period 7](/files/stats/082523p7.pdf)
    
-## week 3
+## week 3f
 ### August 28 - September 1
 **Monday**: Uniform Distributions, Cumulative Distribution Functions  
 * Problem Set 2 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
@@ -77,7 +88,7 @@ redirect_from:
   * Exam next week!
   * [Problem Set 3](/files/stats/2324apstatshw03f.pdf), due Wednesday
 
-## week 4
+## week 4f
 ### September 4- September 8
 **Monday**: Labor Day; No school! 
 * [Problem Set 3](/files/stats/2324apstatshw03f.pdf), due Wednesday
@@ -90,7 +101,7 @@ redirect_from:
 **Friday**: Unit 1 Exam
   * No homework!
 
-## week 5
+## week 5f
 ### September 11- September 15
 **Monday**: Correlation and Covariance
 * Problem Set 4 on [AP Classroom](https://apclassroom.collegeboard.org/33/home)
@@ -114,7 +125,7 @@ redirect_from:
     * [Period 7](/files/stats/091323p7.pdf)
 
 
-## week 6
+## week 6f
 ### September 18- September 22
 **Monday**: Nonlinear regressions, high influential points
 * [Problem Set 5](/files/stats/2324apstatshw05f.pdf), due Wednesday
@@ -134,7 +145,7 @@ redirect_from:
 
 
 
-## week 7
+## week 7f
 ### September 25- September 29
 **Monday**: Unit 2 Exam
 
@@ -150,7 +161,7 @@ redirect_from:
     * [Period 3](/files/stats/092923p3.pdf)
  
 
-## week 8
+## week 8f
 ### October 2- October 6
 **Monday**: Senior camping trip
 
@@ -160,7 +171,7 @@ redirect_from:
 
 
 
-## week 9
+## week 9f
 ### October 9- October 13
 **Monday**: Inference and Experiments
 
@@ -170,7 +181,7 @@ redirect_from:
   * Final day of the quarter!
 
 
-## week 10
+## week 10f
 ### October 16- October 20
 **Monday + Tuesday** Parent-Teacher Conferences
   * Bell schedule this week:
@@ -189,7 +200,7 @@ redirect_from:
     * [Period 7](files/stats/102023p7.pdf)
     
   
-## week 11
+## week 11f
 ### October 23- October 27
 **Monday**: Review of Probability Rules, Transformations of Random Variables
   * Notes
@@ -206,7 +217,7 @@ redirect_from:
     * [Period 3](files/stats/102023p3.pdf)
     * [Period 7](files/stats/102023p7.pdf)
       
-## week 12
+## week 12f
 ### October 30- November 3
 **Monday**: Binomial Probability and Geometric Distributions
  * Notes
@@ -217,3 +228,89 @@ redirect_from:
 
 **Thursday** Review Day
   * Exam on Monday
+
+## week 13f
+### November 6- November 10
+**Monday**: Emergency Plans
+  * Finish [Problem Set 8](/files/stats/2324apstatshw08f.pdf)
+
+**Wednesday** Test on Probability!
+
+**Friday** Review of Z-Score and Normal Distributions, Central Limit Theorem
+  * Notes
+    * [Period 3](/files/stats/111023p3.pdf)
+    * [Period 7](/files/stats/111023p7.pdf)
+    * Review Z-scores!
+    * [Central Limit Theorem](https://youtu.be/zeJD6dqJ5lo?si=Sc4ViyYmiQOYEh_R) by 3Blue1Brown
+
+## week 14f
+### November 13- November 17
+**Monday**: Central Limit Theorem
+  * [Class worksheet](/files/stats/2324apstatshw09.pdf)
+  * Quiz on Normal Distributions and CLT on Friday
+  * Corrections for Test due on Friday
+
+**Wednesday** 
+  * Notes
+    * [Period 3](/files/stats/111523p3.pdf)
+    * [Period 7](/files/stats/111523p7.pdf)
+  * Quiz on Friday!
+    * Review Z-Scores and Normal Distributions
+
+**Friday** Quiz + Finish Corrections
+  * Quiz today!
+  * Corrections from Ch4 due today!
+    
+## week 15f
+### November 20 - November 24
+Thanksgiving break!
+
+
+## week 16f
+### November 27- December 1
+**Monday**: Emergency Plans; Sampling Distribution of Sample Proportions
+  * Relevant video list:
+    * [Sampling Distribution of Sample Proportions](https://www.youtubeeducation.com/watch?v=Br067hrasc8) by Khan Academy
+    * [Central Limit Theorem and Sampling Distributions](https://www.youtube.com/watch?v=iMizFnjzt_w) by Kimberly Brehm
+  * Quiz on Friday on Sampling Distributions
+
+**Wednesday** Review of Sampling Distributions of Sample Proportions and Sample Means
+  * Notes
+    * [Period 3](/files/stats/112923p3.pdf)
+    * [Period 7](/files/stats/112923p7.pdf)
+  * [Practice Quiz](/files/stats/frqans.pdf), due Tuesday
+
+**Friday** Quiz, Review of Sampling Distributions
+ * Notes
+    * [Period 3](/files/stats/112923p3.pdf)
+    * [Period 7](/files/stats/112923p7.pdf)
+  * Test on Wednesday!
+
+## week 17f
+### December 4- December 8
+**Monday**: Review of Chapter 5
+
+**Tuesday** Review for Test
+
+**Friday** Exam on Sampling Distributions
+
+## week 18f 
+Review week
+### December 11- December 15
+**Monday**: Review Day 1
+  * Ask me for another copy of the test if you lose your copy
+
+**Wednesday** Review Day 2
+
+**Friday** Review Day 3
+
+
+## week 19f 
+Midterms week
+### December 18- December 21
+**Monday**: Final Review Day, Period 1 Final!
+  * Period 3 Final is Tuesday
+  * Period 7 Fianl is on Thursday
+  * Good luck on Finals and Merry Christmas!
+
+
