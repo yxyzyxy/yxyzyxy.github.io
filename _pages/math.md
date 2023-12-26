@@ -64,7 +64,7 @@ Below, you will find my [research papers](#research-papers), my [expository writ
   <details>
     <summary>Abstract.</summary>
 
-   Notes on complex representations of $GL(2, \mathbb F_q )$ using parabolic induction and the Principal Series representation. 
+   Notes on complex representations of $GL(2, \mathbb F_q )$ using parabolic induction and the Principal Series representation. Currently being rewritten.
   </details>
 
   
