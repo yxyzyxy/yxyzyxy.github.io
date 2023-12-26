@@ -270,7 +270,7 @@ Thanksgiving break!
 ### November 27- December 1
 **Monday**: Emergency Plans; Sampling Distribution of Sample Proportions
   * Relevant video list:
-    * [Sampling Distribution of Sample Proportions](https://www.youtubeeducation.com/watch?v=Br067hrasc8) by Khan Academy
+    * [Sampling Distribution of Sample Proportions](https://www.youtube.com/watch?v=Br067hrasc8) by Khan Academy
     * [Central Limit Theorem and Sampling Distributions](https://www.youtube.com/watch?v=iMizFnjzt_w) by Kimberly Brehm
   * Quiz on Friday on Sampling Distributions
 
