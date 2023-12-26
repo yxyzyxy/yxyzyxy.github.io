@@ -24,7 +24,21 @@ redirect_from:
 ---
 Warning: the uploaded in-class notes may contain errors either because of some in-class thought experiments, me being silly, etc. If you ever are unsure about something, feel free to ask me.
 
-## week 1
+# Spring Semester
+## week 1s
+### January 8- January 12
+**Monday** In-service day
+
+**Tuesday**: Welcome back! Review Binomial Coefficients
+  
+**Friday**: Advanced counting (permutations, combinations)
+
+
+
+
+# Fall Semester
+
+## week 1f
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
   * Handouts: [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
@@ -38,7 +52,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Problem Set 1](/files/alg2h/2324alg2hhw01f.pdf)
   * [Notes](/files/alg2h/081723hp2.pdf)
   
-## week 2
+## week 2f
 ### August 21 - August 25
 **Monday**: Recursive Formulas
   * Reading: Pages 11-14 from [course notes](/files/alg2coursenotes.pdf)
@@ -57,7 +71,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Notes](/files/alg2h/082423p2.pdf)
 
 
-## week 3
+## week 3f
 ### August 28 - September 1
 **Monday**: FOIL review, Closed forms for arithmetic sequences
   * Extra practice material in: [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) Page 28 Q4.1 and Page 29 Q4.5
@@ -76,7 +90,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 
 
-## week 4
+## week 4f
 ### September 5- September 8
 **Monday**: Labor Day; No school!
   * [Problem Set 5](/files/alg2h/2324alg2hhw05f.pdf), due tomorrow
@@ -89,7 +103,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Review Set 1](/files/alg2h/2324alg2hunit1review.pdf)
 
     
-## week 5
+## week 5f
 ### September 11- September 15
 **Monday**: Unit 1 Review Set
   * [Review Set 1](/files/alg2h/2324alg2hunit1review.pdf)
@@ -102,7 +116,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Notes](/files/alg2h/091523p2.pdf)
 
 
-## week 6
+## week 6f
 ### September 18- September 22
 **Monday**: Systems of Linear Equations review, Matrices
   * [Problem Set 7](/files/alg2h/2324alg2hhw07f.pdf)
@@ -115,7 +129,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Thursday** Review for Quiz
 
-## week 7
+## week 7f
 ### September 25- September 29
 **Monday**: Quiz on Systems of Linear Equations
    
@@ -128,7 +142,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Notes](/files/alg2h/092823p2.pdf)
 
 
-## week 8
+## week 8f
 ### October 2- October 6
 **Monday**: Linear Programming
   * [Problem Set 11](/files/alg2h/2324alg2hhw11f.pdf)
@@ -142,7 +156,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Corrections for Unit 1 Exam, due Monday
 
 
-## week 9
+## week 9f
 ### October 9- October 13
 **Tuesday**: Introduction to Quadratics
   * [Notes](/files/alg2h/101023p2.pdf)
@@ -154,7 +168,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Test Corrections for Unit 2, due in class
   * Last day of the quarter!
 
-## week 10
+## week 10f
 ### October 16- October 20
 **Monday + Tuesday** Parent-Teacher Conferences
   * Bell schedule this week:
@@ -172,7 +186,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   *[Problem Set 13](/files/alg2h/2324alg2hhw13f), due Monday
 
 
-## week 11
+## week 11f
 ### October 23- October 27
 **Monday**: Review of quadratics, factoring review
   * [Notes](/files/alg2h/102323p6.pdf)
@@ -184,7 +198,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Thursday** Factoring Quiz, Discriminants
   * No Homework!
 
-## week 12
+## week 12f
 ### October 30- November 3
 **Monday**: Discriminants, Quadratic Formula
   * [Notes](/files/alg2h/103023p4.pdf)
@@ -198,7 +212,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Problem Set 16](/files/alg2h/2324alg2hhw16f.pdf), due Monday
   * [Review Set](/files/alg2h/2324alg2hhw15f.pdf), due Tuesday
 
-## week 13
+## week 13f
 ### November 6- November 10
 **Monday**: Emergency Plans; Review of Complex Numbers
 
@@ -206,7 +220,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Thursday** Quadratic Equations and Quadratic Functions Exam
 
-## week 14
+## week 14f
 ### November 13- November 17
 **Monday**: Polynomials, Degree and End Behavior
   * [Notes](/files/alg2h/111323p2.pdf)
@@ -223,12 +237,12 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Corrections from Ch4 due today!
   * [Video on Polynomial Equations](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
-## week 15
+## week 15f
 ### November 20 - November 24
 Thanksgiving break!
 
 
-## week 16
+## week 16f
 ### November 27- December 1
 **Monday**: Emergency Plans; Addition, Subtraction, Multiplication of Polynomials, Fundamental Theorem of Algebra
   * Relevant video list:
@@ -249,7 +263,7 @@ Thanksgiving break!
   * [Problem Set 21](/files/alg2h/2324alg2hhw21f.pdf), due Monday
   * Test on Thursday!
 
-## week 17
+## week 17f
 ### December 4- December 8
 **Monday**: Vieta's Formulas, Binomial Theorem
 
@@ -267,7 +281,24 @@ Thanksgiving break!
   
 **Thursday** Exam on Polynomials and Polynomial Equations
 
+## week 18f 
+Review week
+### December 11- December 15
+**Monday**: Review Day 1
+  * Ask me for another copy of the test if you lose your copy
 
+**Wednesday** Review Day 2
+
+**Friday** Review Day 3
+
+
+## week 19f 
+Midterms week
+### December 18- December 21
+**Monday**: Final Review Day, Period 1 Final!
+  * Period 3 Final is Tuesday
+  * Period 7 Fianl is on Thursday
+  * Good luck on Finals and Merry Christmas!
 
 
 
