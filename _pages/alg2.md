@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-17) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -22,7 +22,21 @@ redirect_from:
 ---
 Warning: the uploaded in-class notes may contain errors either because of some in-class thought experiments, me being silly, etc. If you ever are unsure about something, feel free to ask me.
 
-## week 1
+
+# Spring Semester
+## week 1s
+### January 8- January 12
+**Monday** In-service day
+
+**Tuesday**: Welcome back! Review Factoring, roots and multiplicity
+  
+**Friday**: Asymptotes
+
+
+
+# Fall Semester
+
+## week 1f
 ### August 15- August 18
 **Tuesday**: Welcome, course policies
   * Handouts: [Syllabus](files/alg2/2324Alg2Syllabus.pdf)
@@ -37,7 +51,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Period 4](/files/alg2/081723p4.pdf)
     * [Period 6](/files/alg2/081723p6.pdf)
        
-## week 2
+## week 2f
 ### August 21 - August 25
 **Monday**: Conditional Equations, Equalities
 * Reading: Pages 4-6 from [course notes](/files/alg2coursenotes.pdf)
@@ -58,7 +72,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 
        
-## week 3
+## week 3f
 ### August 28 - September 1
 **Monday**: FOIL review, Closed forms for arithmetic sequences
   * Extra practice material in: [Schaum's Outline](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) Page 28 Q4.1 and Page 29 Q4.5
@@ -78,7 +92,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Period 6](/files/alg2/083123p6.pdf)
 
 
-## week 4
+## week 4f
 ### September 4- September 8
 **Monday**: Labor Day
   * No School!
@@ -95,7 +109,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Period 6](/files/alg2/090723p6.pdf)
    
 
-## week 5
+## week 5f
 ### September 11- September 15
 **Monday**: Unit 1 Review
   * Exam on Thursday!
@@ -107,7 +121,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Thursday** Unit 1 Exam
 
 
-## week 6
+## week 6f
 ### September 18- September 22
 **Monday**: Lines as functions
   * [Problem Set 7](/files/alg2/2324alg2hw07f.pdf)
@@ -127,7 +141,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   
 
 
-## week 7
+## week 7f
 ### September 25- September 29
 **Monday**: Quiz on lines and line equations
    
@@ -142,7 +156,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Period 6](/files/alg2/092823p6.pdf)
 
 
-## week 8
+## week 8f
 ### October 2- October 6
 **Monday**: Determinants, Cramer's Rule
   * [Period 4](/files/alg2/100223p4.pdf)
@@ -156,7 +170,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Corrections for Unit 1 Exam, due Monday
 
 
-## week 9
+## week 9f
 ### October 9- October 13
 **Tuesday**: Introduction to Quadratics
   * [Period 4](/files/alg2/101023p4.pdf)
@@ -172,7 +186,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Problem Set 12](/files/alg2/2324alg2hw12f) due at Wednesday, end of class
 
 
-## week 10
+## week 10f
 ### October 16- October 20
 **Monday + Tuesday** Parent-Teacher Conferences
   * Bell schedule this week:
@@ -190,7 +204,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Period 4](/files/alg2/101923p4.pdf)
   * [Period 6](/files/alg2/101923p6.pdf)
 
-## week 11
+## week 11f
 ### October 23- October 27
 **Monday**: Review of quadratics, factoring review
   * [Period 4](/files/alg2/102323p4.pdf)
@@ -203,7 +217,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Thursday** Factoring Quiz
   * No Homework!
 
-## week 12
+## week 12f
 ### October 30- November 3
 **Monday**: Discriminants, Quadratic Formula
  * [Problem Set 16](/files/alg2/2324alg2hw16f.pdf), due Tuesday
@@ -219,7 +233,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Period 4](/files/alg2/110323p4.pdf)
     * [Period 6](/files/alg2/110323p6.pdf)
 
-## week 13
+## week 13f
 ### November 6- November 10
 **Monday**: Emergency Plans; Review of Complex Numbers
 
@@ -227,7 +241,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Thursday** Quadratic Equations and Quadratic Functions Exam
 
-## week 14
+## week 14f
 ### November 13- November 17
 **Monday**: Polynomials, Degree and End Behavior
   * [Problem Set 17](/files/alg2/2324alg2hw17f.pdf), due Tuesday
@@ -247,12 +261,12 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Corrections from Ch4 due today!
   * [Video on Polynomial Equations](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
-## week 15
+## week 15f
 ### November 20 - November 24
 Thanksgiving break!
 Extra Credit Poster on Quadratics due Monday.
 
-## week 16
+## week 16f
 ### November 27- December 1
 **Monday**: Emergency Plans; Addition, Subtraction, Multiplication of Polynomials
   * Relevant video list:
@@ -273,7 +287,7 @@ Extra Credit Poster on Quadratics due Monday.
     * [Period 6](/files/alg2/112823p6.pdf)
   * Quiz on synthetic division on Monday!
 
-## week 17
+## week 17f
 ### December 4- December 8
 **Monday**: Quiz! + Rational Roots Theorem
 
@@ -283,3 +297,21 @@ Extra Credit Poster on Quadratics due Monday.
   * Exam on Monday!!
 
 
+## week 18f 
+Review week
+### December 11- December 15
+**Monday**: Polynomial exam
+
+**Tuesday** Review Day
+  * Ask me for another copy of the test if you lose your copy
+
+**Thurday** Review Day 2
+
+
+## week 19f 
+Midterms week
+### December 18- December 21
+**Monday**: Final Review Day, Period 1 Final!
+  * Period 4 Final is Wednesday
+  * Period 6 Fianl is on Thursday
+  * Good luck on Finals and Merry Christmas!
