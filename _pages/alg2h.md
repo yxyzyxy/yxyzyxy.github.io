@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-17) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -287,17 +287,16 @@ Review week
 **Monday**: Review Day 1
   * Ask me for another copy of the test if you lose your copy
 
-**Wednesday** Review Day 2
+**Tuesday** Review Day 2
 
-**Friday** Review Day 3
+**Thursday** Review Day 3
 
 
 ## week 19f 
 Midterms week
 ### December 18- December 21
 **Monday**: Final Review Day, Period 1 Final!
-  * Period 3 Final is Tuesday
-  * Period 7 Fianl is on Thursday
+  * Period 2 Final is Tuesday!!
   * Good luck on Finals and Merry Christmas!
 
 
