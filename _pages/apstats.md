@@ -246,7 +246,7 @@ redirect_from:
 ## week 14f
 ### November 13- November 17
 **Monday**: Central Limit Theorem
-  * [Class worksheet](/files/stats/2324apstatshw09.pdf)
+  * [Class worksheet](/files/stats/2324apstatshw09f.pdf)
   * Quiz on Normal Distributions and CLT on Friday
   * Corrections for Test due on Friday
 
