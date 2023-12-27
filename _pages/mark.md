@@ -1,14 +1,15 @@
+---
 permalink: /mark/
-title: "Cats"
-excerpt: "Cat Appreciation"
+title: "Mark"
 author_profile: true
+excerpt: "Oh Hai Mark"
 redirect_from: 
-  - /cat/
   - /cat.html
+  - /mark.html
+  - /cats/
 ---
 
-
-## Oh hi Mark!
+## Oh, Hi Mark!
 I adopted a 4 year old cat from a shelter in Santa Clara in April 2022. While he is a shy boy, he's incredibly gentle and likes to chill. 
 
 ### Favorite Pictures from Year 1
