@@ -28,9 +28,13 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ### January 8- January 12
 **Monday** In-service day
 
-**Tuesday**: Welcome back! Review Factoring, roots and multiplicity
-  
-**Friday**: Asymptotes
+**Tuesday**: Welcome back! Review sign charts, rational functions, asymptotes
+  * [Problem Set 1](/files/alg2/2324alg2hw01s.pdf)
+  * Notes
+    * Period 4 [PDF version](/files/alg2/010924p4.pdf), [Concept](/files/alg2/010924p4.concept)
+    * Period 6 [PDF version](/files/alg2/010924p6.pdf), [Concept](/files/alg2/010924p6.concept)
+ 
+**Thursday**: Graphing rational functions
 
 
 
