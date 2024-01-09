@@ -29,9 +29,14 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ### January 8- January 12
 **Monday** In-service day
 
-**Tuesday**: Welcome back! Review Binomial Coefficients
-  
-**Friday**: Advanced counting (permutations, combinations)
+**Tuesday**: Sign charts review, rational functions
+  * [Problem Set 1](/files/alg2h/2324alg2hhw01s.pdf)
+  * Notes
+    * [PDF version](/files/alg2h/010924p2.pdf)
+    * [Concept](/files/alg2h/010924p2.concept)
+  * Quiz next Tuesday
+
+**Thursday**: Limits, Holes, Graphing Rational Functions
 
 
 
