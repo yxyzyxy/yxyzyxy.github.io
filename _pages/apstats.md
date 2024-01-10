@@ -26,9 +26,13 @@ redirect_from:
 ### January 8- January 12
 **Monday** In-service day
 
-**Tuesday**: Welcome back! Review Normal Distributions, Sampling Distributions
-  
-**Friday**: Confidence intervals
+**Wednesday**: Welcome back! Review Sampling Distributions, Confidence Interval for Means
+  * [Problem Set 1](/files/stats/2324statshw01s.pdf), due next Wednesday
+  * Notes
+    * Period 3 [PDF version](/files/stats/011024p3.pdf), [Concept](/files/alg2/011024p3.concept)
+    * Period 7 [PDF version](/files/stats/011024p7.pdf), [Concept](/files/alg2/011024p7.concept)
+    
+**Friday**: Confidence Intervals, T-Distributions
 
 
 # Fall Semester
