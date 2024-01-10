@@ -29,8 +29,8 @@ redirect_from:
 **Wednesday**: Welcome back! Review Sampling Distributions, Confidence Interval for Means
   * [Problem Set 1](/files/stats/2324statshw01s.pdf), due next Wednesday
   * Notes
-    * Period 3 [PDF version](/files/stats/011024p3.pdf), [Concept](/files/alg2/011024p3.concept)
-    * Period 7 [PDF version](/files/stats/011024p7.pdf), [Concept](/files/alg2/011024p7.concept)
+    * Period 3 [PDF version](/files/stats/011024p3.pdf), [Concept](/files/stats/011024p3.concept)
+    * Period 7 [PDF version](/files/stats/011024p7.pdf), [Concept](/files/stats/011024p7.concept)
     
 **Friday**: Confidence Intervals, T-Distributions
 
