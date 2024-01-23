@@ -37,8 +37,44 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Quiz next Tuesday
 
 **Thursday**: Limits, Holes, Graphing Rational Functions
+  * [Problem Set 2](/files/alg2h/2324alg2hhw02s.pdf), due Thursday
+  * Notes
+    * [PDF version](/files/alg2h/011124p2.pdf)
+    * [Concept](/files/alg2h/011124p2.concept)
+  * Quiz next Tuesday
 
+## week 2s
+### January 15- January 19
+**Monday** MLK Day- No school!
 
+**Tuesday**: 
+  * [Problem Set 2](/files/alg2h/2324alg2hhw02s.pdf), due Thursday
+  * Notes
+    * [PDF version](/files/alg2h/011624p2.pdf)
+    * [Concept](/files/alg2h/011624p2.concept)
+  * Quiz next Tuesday
+
+**Thursday**: Quiz, Partial Fraction Decomposition
+  * Quiz!
+  * No homework!
+
+## week 3s
+### January 22- January 26
+**Monday** Even and Odd Functions
+  * Notes
+    * [PDF version](/files/alg2h/012224p2.pdf)
+    * [Concept](/files/alg2h/012224p2.concept)
+
+**Tuesday**: Partial Fraction Decomposition Review, Function Composition, Inverses
+  * [Problem Set 3](/files/alg2h/2324alg2hhw03s.pdf), due Monday
+  * Notes
+    * [PDF version](/files/alg2h/012324p2.pdf)
+    * [Concept](/files/alg2h/012324p2.concept)
+  * Exam on Thursday
+
+**Thursday**: Oblique Asymptotes, Graphing Inverses, Roots
+  * [Problem Set 3](/files/alg2h/2324alg2hhw03s.pdf), due Monday
+  * Exam next week!
 
 
 # Fall Semester
