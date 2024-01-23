@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-3s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -35,6 +35,37 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * Period 6 [PDF version](/files/alg2/010924p6.pdf), [Concept](/files/alg2/010924p6.concept)
  
 **Thursday**: Graphing rational functions
+  * [Problem Set 2](/files/alg2/2324alg2hw02s.pdf)
+  * Notes
+    * Period 4 [PDF version](/files/alg2/011124p4.pdf), [Concept](/files/alg2/011124p4.concept)
+    * Period 6 [PDF version](/files/alg2/011124p6.pdf), [Concept](/files/alg2/011124p6.concept)
+
+
+
+## week 2s
+### January 15- January 19
+**Monday** MLK Day- No school!
+
+**Tuesday**: Review for quiz
+  * Notes
+    * Period 4 [PDF version](/files/alg2/011624p4.pdf), [Concept](/files/alg2/011624p4.concept)
+    * Period 6 [PDF version](/files/alg2/011624p6.pdf), [Concept](/files/alg2/011624p6.concept)
+ 
+**Thursday**: Quiz
+
+## week 3s
+### January 22- January 26
+**Monday** Combining Rational Expressions
+ * Notes
+    * Period 6 [PDF version](/files/alg2/012224p6.pdf), [Concept](/files/alg2/012224p6.concept)
+
+**Tuesday**: Combining Rational Expresssions, Function Operations
+  * Notes
+    * Period 4 [PDF version](/files/alg2/012324p4.pdf), [Concept](/files/alg2/012324p4.concept)
+    * Period 6 [PDF version](/files/alg2/012324p6.pdf), [Concept](/files/alg2/012324p6.concept)
+ 
+**Thursday**: 
+
 
 
 
