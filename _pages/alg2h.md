@@ -72,7 +72,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * [Concept](/files/alg2h/012324p2.concept)
   * Exam on Tuesday
 
-**Thursday**: Oblique Asymptotes, Graphing Inverses, Roots
+**Thursday**: Workday
   * [Problem Set 3](/files/alg2h/2324alg2hhw03s.pdf), due Monday
   * Exam next week!
 
