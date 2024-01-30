@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-3s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -64,9 +64,25 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * Period 4 [PDF version](/files/alg2/012324p4.pdf), [Concept](/files/alg2/012324p4.concept)
     * Period 6 [PDF version](/files/alg2/012324p6.pdf), [Concept](/files/alg2/012324p6.concept)
  
-**Thursday**: 
+**Thursday**: Composition, Inverses
+  * Notes
+    * Period 4 [PDF version](/files/alg2/012524p4.pdf), [Concept](/files/alg2/012524p4.concept)
+    * Period 6 [PDF version](/files/alg2/012524p6.pdf), [Concept](/files/alg2/012524p6.concept)
+ 
 
 
+## week 4s
+### January 29- February 2
+**Monday** Review composition, inverses
+ * Notes
+    * Period 4 [PDF version](/files/alg2/012924p4.pdf), [Concept](/files/alg2/012924p4.concept)
+    * Period 6 [PDF version](/files/alg2/012924p6.pdf), [Concept](/files/alg2/012924p6.concept)
+  * Quiz Thursday!
+  * [Problem Set 3](/files/alg2/2324alg2hw03s.pdf)
+
+**Tuesday**: Families of functions, graphing inverses
+ 
+**Thursday**: Quiz!
 
 
 # Fall Semester
