@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -70,11 +70,26 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Notes
     * [PDF version](/files/alg2h/012324p2.pdf)
     * [Concept](/files/alg2h/012324p2.concept)
-  * Exam on Thursday
+  * Exam on Tuesday
 
 **Thursday**: Oblique Asymptotes, Graphing Inverses, Roots
   * [Problem Set 3](/files/alg2h/2324alg2hhw03s.pdf), due Monday
   * Exam next week!
+
+
+## week 4s
+### January 22- January 26
+**Monday** Prepare for quiz for tomorrow!
+  * [Practice Quiz](/files/alg2h/practicequizfunctions.pdf)
+
+
+**Tuesday**: Quiz! Graphing inverses, families of functions
+
+**Thursday**: Inverses, Graphing compositions
+  * Exam on Thursday!
+
+
+
 
 
 # Fall Semester
