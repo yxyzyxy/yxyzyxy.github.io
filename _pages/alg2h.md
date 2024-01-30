@@ -80,7 +80,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ## week 4s
 ### January 22- January 26
 **Monday** Prepare for quiz for tomorrow!
-  * [Practice Quiz](/files/alg2h/practicequizfunctions.pdf)
+  * [Practice Quiz](/files/alg2h/alg2hfuncquiz.pdf)
 
 
 **Tuesday**: Quiz! Graphing inverses, families of functions
