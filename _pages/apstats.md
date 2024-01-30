@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-1s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -33,6 +33,43 @@ redirect_from:
     * Period 7 [PDF version](/files/stats/011024p7.pdf), [Concept](/files/stats/011024p7.concept)
     
 **Friday**: Confidence Intervals, T-Distributions
+  * [Problem Set 1](/files/stats/2324statshw01s.pdf), due next Wednesday
+  * Notes
+    * Period 3 [PDF version](/files/stats/011224p3.pdf), [Concept](/files/stats/011224p3.concept)
+    * Period 7 [PDF version](/files/stats/011224p7.pdf), [Concept](/files/stats/011224p7.concept)
+
+
+## week 2s
+### January 15- January 19
+**Monday** MLK Day; No school!
+
+**Wednesday**: Prepare for quiz
+
+**Friday**: Quiz on Confidence intervals and hypothesis testing
+
+
+## week 3s
+### January 23- January 26
+**Monday** Confidence intervals for means
+
+**Wednesday**: Hypothesis testing for means
+  * Finish packet by February 5; 3 exercises per section
+  * Quiz on packet February 7
+
+**Friday**: Workday
+
+
+## week 4s
+### January 29- February 2
+**Monday** Error types
+
+**Wednesday**: 
+  * Finish packet by February 5; 3 exercises per section
+  * Quiz on packet February 7; exam on February 15!
+
+**Friday**: 
+  * Finish packet by February 5; 3 exercises per section
+  * Quiz on packet February 7; exam on February 15!
 
 
 # Fall Semester
