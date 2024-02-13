@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-6s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -87,6 +87,41 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Thursday**: Inverses, Graphing compositions
   * Exam on Thursday!
+
+## week 5s
+### February 5- February 9
+**Monday** Review graphing families of functions, Computing inverses
+  * [Problem Set 5](/files/alg2/2324alg2hhw05s.pdf) due Thursday
+
+**Tuesday**: Exponent rules
+  * [Exponent Rules](/files/exprules.pdf)
+  * [Problem Set 5](/files/alg2/2324alg2hhw05s.pdf) due Thursday
+
+
+**Thursday**: nth roots and exponent rules
+  * Email me for practice test
+
+
+## week 6s
+### February 12- February 16
+**Monday** Creating Rational Functions
+  * Email me for practice test
+    
+**Tuesday**: Review Game
+  * Test on Thursday
+  * Email me for practice test
+ 
+**Thursday**: Test
+  * Topics include:
+    * Families of functions (translations, scaling, reflections)
+    * Operations on functions (addition, subtraction, multiplication, division, composition)
+    * Inverses (graphing, computing, horizontal line test)
+    * Fractions (addition, subtraction, multiplication, division)
+    * Rational Functions!! (horizontal/vertical asymptotes, x-intercepts, sign diagrams, graphing)
+    * Exponent Rules, nth roots
+    * Even, odd functions
+  * Next week is Winter Break!!!
+
 
 
 
