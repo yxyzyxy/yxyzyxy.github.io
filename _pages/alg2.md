@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-6s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -68,7 +68,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Notes
     * Period 4 [PDF version](/files/alg2/012524p4.pdf), [Concept](/files/alg2/012524p4.concept)
     * Period 6 [PDF version](/files/alg2/012524p6.pdf), [Concept](/files/alg2/012524p6.concept)
- 
+  * [Problem Set 3](/files/alg2/2324alg2hw03s.pdf) due Monday!
 
 
 ## week 4s
@@ -78,11 +78,52 @@ Warning: the uploaded in-class notes may contain errors either because of some i
     * Period 4 [PDF version](/files/alg2/012924p4.pdf), [Concept](/files/alg2/012924p4.concept)
     * Period 6 [PDF version](/files/alg2/012924p6.pdf), [Concept](/files/alg2/012924p6.concept)
   * Quiz Thursday!
-  * [Problem Set 3](/files/alg2/2324alg2hw03s.pdf)
+  * [Problem Set 3](/files/alg2/2324alg2hw03s.pdf) due today!
+  * [Problem Set 4](/files/alg2/2324alg2hw04s.pdf) due Thursday
 
 **Tuesday**: Families of functions, graphing inverses
+ * [Problem Set 4](/files/alg2/2324alg2hw04s.pdf) due Thursday
+
+**Thursday**: Quiz! + Family of functions
+
+
+## week 5s
+### February 5- February 9
+**Monday** Review graphing families of functions, Computing inverses
+  * [Problem Set 5](/files/alg2/2324alg2hw05s.pdf) due Thursday
+
+**Tuesday**: Compositions, inverses
  
-**Thursday**: Quiz!
+**Thursday**: Chapter Review
+  * Email me for practice test
+
+
+## week 6s
+### February 12- February 16
+**Monday** Creating Rational Functions
+  * Email me for practice test
+    
+**Tuesday**: Review Game
+  * Test on Thursday
+  * Email me for practice test
+ 
+**Thursday**: Test
+  * Topics include:
+    * Families of functions (translations, scaling, reflections)
+    * Operations on functions (addition, subtraction, multiplication, division, composition)
+    * Inverses (graphing, computing, horizontal line test)
+    * Fractions (addition, subtraction, multiplication, division)
+    * Rational Functions!! (horizontal/vertical asymptotes, x-intercepts, sign diagrams, graphing)
+  * Next week is Winter Break!!!
+
+
+
+## week 7s
+### February 19- February 23 Winter Break!!!
+
+## week 8s
+
+
 
 
 # Fall Semester
