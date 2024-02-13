@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-4s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-6s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -70,6 +70,31 @@ redirect_from:
 **Friday**: 
   * Finish packet by February 5; 3 exercises per section
   * Quiz on packet February 7; exam on February 15!
+
+
+## week 5s
+### February 5- February 9
+**Monday** Packet due! AP FRQ Practice
+
+**Wednesday**: Quiz on Hypothesis testing and confidence intervals for means and proportions + Review
+
+**Friday**: Review Hypothesis Testing and Confidence Intervals
+  * Test on Friday!!
+
+
+## week 6s
+### February 12- February 16
+**Monday** Review day
+  * We are working with sampling distributions!!
+
+**Wednesday**: King of the Hill/Hotchair
+
+**Friday**: Test!!
+  * Topics include:
+    * Hypothesis testing for proportions, means, difference in proportion, difference in mean
+    * Confidence intervals and interpretation
+    * Margin of Error, sample size
+  * Test will be 25 MCQ + 3 FRQ, you answer 2 FRQ
 
 
 # Fall Semester
