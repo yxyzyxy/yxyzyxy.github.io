@@ -94,7 +94,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * [Problem Set 5](/files/alg2h/2324alg2hhw05s.pdf) due Thursday
 
 **Tuesday**: Exponent rules
-  * [Exponent Rules](/files/exprules.pdf)
+  * [Exponent Rules](/files/LogExpRules.pdf)
   * [Problem Set 5](/files/alg2h/2324alg2hhw05s.pdf) due Thursday
 
 
@@ -146,7 +146,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Monday** Review
 
 **Tuesday**: Quiz, Review of Logarithms, e and ln
-  * [Exponent Rules](/files/exprules.pdf)
+  * [Exponent Rules](/files/LogExpRules.pdf)
   * [Problem Set 8](/files/alg2h/2324alg2hhw08s.pdf)
 
 
