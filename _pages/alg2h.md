@@ -91,11 +91,11 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ## week 5s
 ### February 5- February 9
 **Monday** Review graphing families of functions, Computing inverses
-  * [Problem Set 5](/files/alg2/2324alg2hhw05s.pdf) due Thursday
+  * [Problem Set 5](/files/alg2h/2324alg2hhw05s.pdf) due Thursday
 
 **Tuesday**: Exponent rules
   * [Exponent Rules](/files/exprules.pdf)
-  * [Problem Set 5](/files/alg2/2324alg2hhw05s.pdf) due Thursday
+  * [Problem Set 5](/files/alg2h/2324alg2hhw05s.pdf) due Thursday
 
 
 **Thursday**: nth roots and exponent rules
@@ -132,13 +132,13 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ## week 8s February 26- March 1
 **Monday** Review of Exponent Rules
   * Quiz next Monday!
-  * [Problem Set 6](/files/alg2/2324alg2hw06s.pdf) due Thursday
+  * [Problem Set 6](/files/alg2h/2324alg2hw06s.pdf) due Thursday
 
 **Tuesday**: Exponent Rules and Exponential equations
 
 
 **Thursday**: Graphs of Exponentials
-  * [Problem Set 7](/files/alg2/2324alg2hhw07s.pdf)
+  * [Problem Set 7](/files/alg2h/2324alg2hhw07s.pdf)
     * Quiz will not be as long!!
 
 ## week 9s 
@@ -147,6 +147,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Tuesday**: Quiz, Review of Logarithms, e and ln
   * [Exponent Rules](/files/exprules.pdf)
+  * [Problem Set 8](/files/alg2h/2324alg2hhw08s.pdf)
 
 
 **Thursday**: Logarithm Rules, Logarithmic Equations, Graphs
