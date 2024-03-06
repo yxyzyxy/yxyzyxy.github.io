@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-6s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-9s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -95,6 +95,44 @@ redirect_from:
     * Confidence intervals and interpretation
     * Margin of Error, sample size
   * Test will be 25 MCQ + 3 FRQ, you answer 2 FRQ
+
+## week 7s
+### February 19- February 23 Winter Break!!!
+
+
+
+## week 8s February 26- March 1
+**Monday** Chi Squared Goodness of Fit
+  * Quiz next Monday!
+
+**Wednesday**: Chi Squared Goodness of Fit Practice
+
+
+**Friday**: Practice Exam in Class
+
+
+## week 9s 
+### March 4- March 8
+**Monday** Quiz, 2-way tables
+
+**Wednesday**: Chi-Squared Homogeneity and Independence
+
+
+**Friday**: Chi-Squared Review
+  * Test on Monday!
+
+
+## week 10s 
+### March 11- March 15
+**Monday** Test!
+
+**Wednesday**: Linear Regression Review
+
+**Friday**: Half-Day!
+
+
+
+
 
 
 # Fall Semester
