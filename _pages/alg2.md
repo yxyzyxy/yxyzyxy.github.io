@@ -121,7 +121,41 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ## week 7s
 ### February 19- February 23 Winter Break!!!
 
-## week 8s
+## week 8s February 26- March 1
+**Monday** Exponent Rules, Prime factorization
+  * Quiz next Monday!
+  * [Problem Set 6](/files/alg2/2324alg2hw06s.pdf) due Thursday
+
+**Tuesday**: Exponent Rules and Exponential equations
+
+**Thursday**: Substitution, Review
+  * [Practice Quiz](/files/alg2/2324alg2exprevquiz.pdf)
+    * Quiz will not be as long!!
+
+## week 9s 
+### March 4- March 8
+**Monday** Quiz
+
+**Tuesday**: Graph of Exponential Functions, Growth, Decay, e
+  * [Problem Set 7](/files/alg2/2324alg2hw07s.pdf)
+  * [Exponent Rules](/files/exprules.pdf)
+
+
+**Thursday**: Review of Exponentials
+
+
+## week 10s 
+### March 11- March 15
+**Monday** No Class- odd periods!
+
+**Tuesday**: Test on Exponentials
+
+**Thursday**: Intro to Logarithms
+
+**Friday**: Half-Day!
+
+
+
 
 
 
