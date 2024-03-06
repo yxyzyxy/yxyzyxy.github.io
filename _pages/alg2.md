@@ -138,7 +138,7 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 
 **Tuesday**: Graph of Exponential Functions, Growth, Decay, e
   * [Problem Set 7](/files/alg2/2324alg2hw07s.pdf)
-  * [Exponent Rules](/files/exprules.pdf)
+  * [Exponent Rules](/files/LogExpRules.pdf)
 
 
 **Thursday**: Review of Exponentials
