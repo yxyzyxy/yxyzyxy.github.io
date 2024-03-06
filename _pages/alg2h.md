@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-6s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-9s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -123,6 +123,44 @@ Warning: the uploaded in-class notes may contain errors either because of some i
   * Next week is Winter Break!!!
 
 
+
+## week 7s
+### February 19- February 23 Winter Break!!!
+
+
+
+## week 8s February 26- March 1
+**Monday** Review of Exponent Rules
+  * Quiz next Monday!
+  * [Problem Set 6](/files/alg2/2324alg2hw06s.pdf) due Thursday
+
+**Tuesday**: Exponent Rules and Exponential equations
+
+
+**Thursday**: Graphs of Exponentials
+  * [Problem Set 7](/files/alg2/2324alg2hhw07s.pdf)
+    * Quiz will not be as long!!
+
+## week 9s 
+### March 4- March 8
+**Monday** Review
+
+**Tuesday**: Quiz, Review of Logarithms, e and ln
+  * [Exponent Rules](/files/exprules.pdf)
+
+
+**Thursday**: Logarithm Rules, Logarithmic Equations, Graphs
+
+
+## week 10s 
+### March 11- March 15
+**Monday** No Class- odd periods!
+
+**Tuesday**: Change of Base, Review
+
+**Thursday**: Logarithms Test
+
+**Friday**: Half-Day!
 
 
 
