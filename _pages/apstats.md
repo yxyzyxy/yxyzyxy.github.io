@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-9s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
+[jump to current week](#week-13s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/stats/2324APStatisticsSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: [The Practice of Statistics](https://drive.google.com/file/d/1UB4pjsW39u8RNip7gfWYZq_8AFY3YsBM/view?usp=sharing) by Starnes and Tabor, 6th edition (Log in required)
@@ -124,11 +124,55 @@ redirect_from:
 
 ## week 10s 
 ### March 11- March 15
-**Monday** Test!
+**Monday** Chi-Squared Test!
 
-**Wednesday**: Linear Regression Review
+**Wednesday**: Confidence Intervals for Slope of Linear Regression
 
 **Friday**: Half-Day!
+
+
+
+## week 11s 
+### March 18- March 22
+**Monday** In-service day- no school!
+
+**Wednesday**: Hypothesis Testing for Slope of Linear Regression
+  * Test next week on Wednesday
+
+**Friday**: Review CI/HT for Slope of Linear Regression
+  * Test next week on Wednesday
+
+
+## week 12s 
+### March 25- March 29
+**Monday** Review day!
+
+**Wednesday**: Test on Confidence Intervals + Hypothesis Testing for Slope of Linear Regression
+  * We start reviewing for AP exam next week
+
+**Friday**: Good Friday; No School!
+
+
+
+
+## week 13s 
+### April 1- April 5
+**Monday** Review Day
+  * Quiz 25 and 26 from AP Barrons, due Wednesday
+
+**Wednesday**: Review Day
+  * Quiz 27, 28 due Monday after break
+
+**Friday**: Review Day
+  * Jeopardy game!
+  * Spring break!!
+
+
+
+
+
+
+
 
 
 
