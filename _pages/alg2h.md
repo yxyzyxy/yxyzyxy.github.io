@@ -11,7 +11,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-9s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
+[jump to current week](#week-13s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2h/2324Alg2HSyllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -162,6 +162,40 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Thursday**: Logarithms Test
 
 **Friday**: Half-Day!
+
+
+
+
+## week 11s 
+### March 18- March 22
+**Monday** In service day- no school!
+
+**Tuesday**: Sequences Review, Arithmetic and Geometric Sequences
+
+**Thursday**: Series notation
+  * [Problem Set 9](/files/alg2/2324alg2hw09s.pdf)
+  
+
+## week 12s 
+### March 25- March 29
+**Monday** No class (odds only)
+
+**Tuesday**: Series review
+  * [Problem Set 9](/files/alg2h/2324alg2hhw09s.pdf)
+
+**Thursday**: Finite Arithmetic Series
+
+
+## week 13s 
+### April 1- April 5
+**Monday** Principle of Mathematical Induction
+  * [Problem Set 10](/files/alg2/2324alg2hhw10s.pdf)
+
+**Tuesday**: Induction practice, geometric series
+
+**Thursday**: Infinite geometric sums
+  * Spring break next week!
+  * Extra Credit on generating functions
 
 
 
