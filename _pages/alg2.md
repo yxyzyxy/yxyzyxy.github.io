@@ -10,7 +10,7 @@ redirect_from:
 2023-2024
 
 
-[jump to current week](#week-9s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
+[jump to current week](#week-13s) | [Veracross](https://accounts.veracross.com/vcs/portals/login) | [Syllabus](/files/alg2/2324Alg2Syllabus.pdf)
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Text: Pearson Algebra 2, Common Core
@@ -153,6 +153,44 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 **Thursday**: Intro to Logarithms
 
 **Friday**: Half-Day!
+
+
+
+## week 11s 
+### March 18- March 22
+**Monday** In service day- no school!
+
+**Tuesday**: Logarithm Calculations, Logarithmic Equations
+
+**Thursday**: Logarithm Rules
+  * [Problem Set 8](/files/alg2/2324alg2hw08s.pdf)
+  * [Exponent Rules](/files/LogExpRules.pdf)
+  * Quiz on Logs next week on Thursday
+
+
+
+## week 12s 
+### March 25- March 29
+**Monday** No class (odds only)
+
+**Tuesday**: Logarithm Review, Change of Base
+  * [Logarithms Review Set](/files/alg2/2324alg2hw09s.pdf)
+
+**Thursday**: Logarithm Quiz, Ln Lab to the moon!
+
+
+## week 13s 
+### April 1- April 5
+**Monday** Logarithm Graphs and ln
+  *[Problem Set 10](/files/alg2/2324alg2hw10s.pdf)
+
+**Tuesday**: Solving logarithmic equations
+  * Quiz corrections due Friday
+
+**Thursday**: Sequences introduction
+  * Spring break next week!
+
+
 
 
 
