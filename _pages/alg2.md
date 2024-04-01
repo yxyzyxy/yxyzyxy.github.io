@@ -182,16 +182,13 @@ Warning: the uploaded in-class notes may contain errors either because of some i
 ## week 13s 
 ### April 1- April 5
 **Monday** Logarithm Graphs and ln
-  *[Problem Set 10](/files/alg2/2324alg2hw10s.pdf)
+  * [Problem Set 10](/files/alg2/2324alg2hw10s.pdf)
 
 **Tuesday**: Solving logarithmic equations
   * Quiz corrections due Friday
 
 **Thursday**: Sequences introduction
   * Spring break next week!
-
-
-
 
 
 
