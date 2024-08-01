@@ -7,16 +7,17 @@ redirect_from:
 ---
 
 
-# Current courses
+# teaching at Valley
+Since joining Valley, I've taught regular and honors versions of Geometry, Algebra 2, Precalculus, and AP Statistics.
 
+Courses and clubs this year:
 * [Algebra 2](/alg2/)
 * [Algebra 2 Honors](/alg2h/)
-* [AP Statistics](/apstats/)
+* [Geometry](/geo/)
+* [Number Theory](/ent/)
 
-# Previous courses
-Since joining Valley, I have taught Geometry, Geometry Honors, Algebra 2, Algebra 2 Honors, Precalculus, and AP Statistics.
 
-# Teaching elsewhere
+# teaching elsewhere
 At UC Santa Cruz, I was a teaching assistant for Math 11A and Math 11B Calculus with Applications, taught by Prof. Martin Weissman and Prof. Andrew Korbin, respectively. 
   * [Calculus notes](/calc)
 
