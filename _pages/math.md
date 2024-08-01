@@ -9,7 +9,7 @@ redirect_from:
   - /publications/
 ---
 
-Most recently, I have been interested in algebraic geometry, representation theory, and category theory. 
+Most recently, I have been interested in learning algebraic geometry and its applications to combinatorics and statistics.
 Below, you will find my [research papers](#research-papers), my [expository writing](#expository-writing), and [recent talks](#recent-talks).
 
 ## research papers
@@ -59,13 +59,6 @@ Below, you will find my [research papers](#research-papers), my [expository writ
    Notes on synthetic differential geometry and how basic results in calculus can be somewhat recovered using intuitionistic logic. Supervised by Prof. Kálmán Cziszter.
   </details>
 
-* **Representations of GL(2) over Finite Fields**.  
-[PDF](/files/quadratic_TNR.pdf).  
-  <details>
-    <summary>Abstract.</summary>
-
-   Notes on complex representations of $GL(2, \mathbb F_q )$ using parabolic induction and the Principal Series representation. Currently being rewritten.
-  </details>
 
   
 ## recent talks
