@@ -1,5 +1,5 @@
 ---
-title: "teaching"
+title: 
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-# teaching at Valley
+# Teaching at Valley
 Since joining Valley, I've taught regular and honors versions of Geometry, Algebra 2, Precalculus, and AP Statistics.
 
 Courses and clubs this year:
@@ -17,7 +17,7 @@ Courses and clubs this year:
 * [Number Theory](/ent/)
 
 
-# teaching elsewhere
+# Teaching elsewhere
 At UC Santa Cruz, I was a teaching assistant for Math 11A and Math 11B Calculus with Applications, taught by Prof. Martin Weissman and Prof. Andrew Korbin, respectively. 
   * [Calculus notes](/calc)
 
