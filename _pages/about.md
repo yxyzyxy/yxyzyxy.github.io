@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a math teacher at [Valley Christian Schools](https://valleychristianschools.org/). I was a graduate student in math at the [University of California, Santa Cruz](https://www.math.ucsc.edu/index.html) after completing my undergraduate studies at [Reed College](https://www.reed.edu/math/). I've also had the opportunity to be a part of the [Budapest Semesters in Mathematics](https://budapestsemesters.com/) and the [Math in Moscow](https://mathinmoscow.org/) study abroad programs. You can find more details about my math work in the [Math Stuff](/math/) page.
+Hello! I am a math teacher at [Valley Christian Schools](https://valleychristianschools.org/) and at the [Art of Problem Solving](https://aopsacademy.org/).
+Previously, I was a graduate student at the [University of California, Santa Cruz](https://www.math.ucsc.edu/index.html) after completing my undergraduate studies at [Reed College](https://www.reed.edu/math/). I've also had the opportunity to be a part of the [Budapest Semesters in Mathematics](https://budapestsemesters.com/) and the [Math in Moscow](https://mathinmoscow.org/) study abroad programs. You can find more details about my math work in the [Math Stuff](/math/) page.
 Generally speaking, I like [category theory](https://en.wikipedia.org/wiki/Abstract_nonsense).
-
-You can contact me by emailing me at ykim at valleychristianschools dot org. 
-If I don't respond within 48 hours, try resending your email. 
-
-### 2023-2024 Courses:
-  * [Algebra 2](/alg2/)
-  * [Algebra 2 Honours](/alg2h/)
-  * [AP Statistics](/apstats/)
-
 
 
 ### Springer GTM Test Results 
