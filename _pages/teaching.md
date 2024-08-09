@@ -11,9 +11,9 @@ redirect_from:
 Since joining Valley, I've taught regular and honors versions of Geometry, Algebra 2, Precalculus, and AP Statistics.
 
 Courses and clubs this year:
-* [Algebra 2](/alg2/)
-* [Algebra 2 Honors](/alg2h/)
-* [Geometry](/geo/)
+* Algebra 2
+* Algebra 2 Honors
+* Geometry
 * [Number Theory](/ent/)
 
 
