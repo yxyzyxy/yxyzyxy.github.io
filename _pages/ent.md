@@ -12,7 +12,7 @@ redirect_from:
           
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Main Text: Number Theory by Pommersheim, Marks, Flapan
-    * [Textbook](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) (Log in required)
+    * [Textbook](https://drive.google.com/file/d/12hlPJ-97kd89FtDE16ze1AyskNnSMSQ3/view?usp=sharing) (Log in required)
   * Further readings: 
       * Elementary Methods in Number Theory by Nathanson
       * A Classical Introduction to Number Theory by Ireland and Rosen 
@@ -21,8 +21,6 @@ redirect_from:
 
 > Mathematics is the queen of the sciences—and number theory is the queen of mathematics.
 -Carl Friedrich Gauss
-
-
 
 Number theory, which is the study of the integers, is one of the oldest branches of math and is still an active field of research today.
 The goal for this exploration is to learn how math is about rigorous creativity in exploring different ideas and structures.
