@@ -2,48 +2,59 @@
 permalink: /ent/
 title: "Number Theory and Crytography"
 excerpt: "page for number theory"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /nut/
   - /nt/
   - /nut.html
 ---
 2024-2025
-
+          
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
   * Main Text: Number Theory by Pommersheim, Marks, Flapan
     * [Textbook](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) (Log in required)
-  * Further Readings:
-    * Elementary Methods in Number Theory by Nathanson
-    * A Classical Introduction to Modern Number Theory by Ireland and Rosen
+  * Further readings: 
+      * Elementary Methods in Number Theory by Nathanson
+      * A Classical Introduction to Number Theory by Ireland and Rosen 
+
 ---
 
-"Mathematics is the queen of the sciences—and number theory is the queen of mathematics.''- Carl Friedrich Gauss
+> Mathematics is the queen of the sciences—and number theory is the queen of mathematics.
+-Carl Friedrich Gauss
+
+
 
 Number theory, which is the study of the integers, is one of the oldest branches of math and is still an active field of research today.
 The goal for this exploration is to learn how math is about rigorous creativity in exploring different ideas and structures.
 We will also focus on applying these techniques to crytography.
 
-Below, you will find writeups and worksheets under [topics](#Topics) and [sample problems](#Sample-problems).
+If you're interested in joining, please fill out [this form](https://forms.gle/9rDSk2H9pSFd1qrk7). 
+Familiarity with Algebra 2/Precalculus is assumed.
 
-## Topics
-  * [Pythagorean Triples](/files/ent/ptriples.pdf)
-  * [Mathematical Induction](/files/ent/induction.pdf)
-  * Primes, Composites, and Sieves
-  * Division Algorithm
-  * Euclidean Algorithm
-  * Diophantine Equations
-  * Fundamental Theorem of Arithmetic
-  * Modulo tables
-  * Modular Arithmetic (Number tricks, ISBNs, Calendars)
-  * Rings and Fields
-  * Basic Ciphers
-  * Sun-Zi Theorem (Chinese Remainder Theorem)
-  * Modular Exponentiation
-  * Fermat's Little Theorem
-  * RSA Encryption
-  * Sum of Squares
+### Topics
 
+  1. [Pythagorean Triples](/files/ent/ptriples.pdf)
+  2. [Mathematical Induction](/files/ent/induction.pdf)
+  3. Primes, Composites, and Sieves
+  4. Division Algorithm
+      1. Base n number systems
+      2. p-adic numbers (geometry)
+  5. Euclidean Algorithm
+  6. Diophantine Equations
+  7. Fundamental Theorem of Arithmetic
+  8. Modulo tables
+  9. Modular Arithmetic (Number tricks, ISBNs, Calendars)
+  10. Rings and Fields
+  11. Basic Encryption Schemes
+  12. Sun-Zi Theorem (Chinese Remainder Theorem)
+  13. Modular Exponentiation
+  14. Fermat's Little Theorem
+  15. RSA Encryption
+  16. Sum of Squares
+      1. Fermat's sum of two squares
+      2. Lagrange's sum of four squares
+
+We will learn enough programming in Python to be able to perform encryption algorithms.
 
 ## Sample problems:
   1. Prove that $3^{512}$ has a remainder of 0 when divided by 1024.
@@ -58,4 +69,3 @@ Some particular types of encryption:
   2. Exponentiation
   3. RSA Encryption algorithm (public and private key)
   5. Elliptic Curves (if time permits)
-We will learn enough programming in Python to be able to perform encryption algorithms.
