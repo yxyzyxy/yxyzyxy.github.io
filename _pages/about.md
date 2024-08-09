@@ -12,6 +12,8 @@ Hello! I am a math teacher at [Valley Christian Schools](https://valleychristian
 Previously, I was a graduate student at the [University of California, Santa Cruz](https://www.math.ucsc.edu/index.html) after completing my undergraduate studies at [Reed College](https://www.reed.edu/math/). I've also had the opportunity to be a part of the [Budapest Semesters in Mathematics](https://budapestsemesters.com/) and the [Math in Moscow](https://mathinmoscow.org/) study abroad programs. You can find more details about my math work in the [Math Stuff](/math/) page.
 Generally speaking, I like [category theory](https://en.wikipedia.org/wiki/Abstract_nonsense).
 
+Outside of math, I enjoy playing and watching football (soccer) and taekwondo. 
+
 
 ### Springer GTM Test Results 
 <img src="http://math.jhu.edu/~savitt/GTM/maclane.jpg" width=90 height=140 alt="">
