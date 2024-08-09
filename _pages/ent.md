@@ -11,22 +11,41 @@ redirect_from:
 2024-2025
 
   * Instructor: [Young Kim](https://yxyzyxy.github.io/)
-  * Text: Number Theory by Pommersheim, Marks, Flapan
-  * Additional Resources:
+  * Main Text: Number Theory by Pommersheim, Marks, Flapan
     * [Textbook](https://drive.google.com/file/d/1ukws6VYOhGW4ATlJA-4aA0jrcP24paRJ/view?usp=sharing) (Log in required)
   * Further Readings:
     * Elementary Methods in Number Theory by Nathanson
     * A Classical Introduction to Modern Number Theory by Ireland and Rosen
 ---
 
-This Number Theory club was originally designed to be a course for Valley Christian High School with the curriculum submitted for approval in November 2023. 
-The outline of the original curriculum can be seen [here](/https://drive.google.com/file/d/1ne1c233y4hl0rM7Jk2S9uBU92W3iSae0/view?usp=sharing)
+"Mathematics is the queen of the sciences—and number theory is the queen of mathematics.''- Carl Friedrich Gauss
 
-  
-As a club, we will work through story and most of the exercises provided by the textbook "Number Theory" by Pommersheim, Marks, and Flapan.
-The goal is for you to learn how to approach math creatively through number theory, and see how we can apply mathematical ideas to crytography.
+Number theory, which is the study of the integers, is one of the oldest branches of math and is still an active field of research today.
+The goal for this exploration is to learn how math is about rigorous creativity in exploring different ideas and structures.
+We will also focus on applying these techniques to crytography.
 
-Sample problems that you'll eventually learn how to tackle:
+Below, you will find writeups and worksheets under [topics](#Topics) and [sample problems](#Sample-problems).
+
+## Topics
+  * [Pythagorean Triples](/files/ent/ptriples.pdf)
+  * [Mathematical Induction](/files/ent/induction.pdf)
+  * Primes, Composites, and Sieves
+  * Division Algorithm
+  * Euclidean Algorithm
+  * Diophantine Equations
+  * Fundamental Theorem of Arithmetic
+  * Modulo tables
+  * Modular Arithmetic (Number tricks, ISBNs, Calendars)
+  * Rings and Fields
+  * Basic Ciphers
+  * Sun-Zi Theorem (Chinese Remainder Theorem)
+  * Modular Exponentiation
+  * Fermat's Little Theorem
+  * RSA Encryption
+  * Sum of Squares
+
+
+## Sample problems:
   1. Prove that $3^{512}$ has a remainder of 0 when divided by 1024.
   2. Find the last 3 digits of $2025^{2024^{2023}}$.
   3. Does the function $f(x) = x^2 + x + 41$ always spit out primes for positive integers $x$? 
@@ -39,5 +58,4 @@ Some particular types of encryption:
   2. Exponentiation
   3. RSA Encryption algorithm (public and private key)
   5. Elliptic Curves (if time permits)
-We will have to learn how to program a bit in either Python or Sage to do the RSA encryption algorithms.
-
+We will learn enough programming in Python to be able to perform encryption algorithms.
