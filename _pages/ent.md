@@ -1,6 +1,6 @@
 ---
 permalink: /ent/
-title: "Number Theory and Crytography"
+title: "Number Theory and cryptography"
 excerpt: "page for number theory"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ redirect_from:
 
 Number theory, which is the study of the integers, is one of the oldest branches of math and is still an active field of research today.
 The goal for this exploration is to learn how math is about rigorous creativity in exploring different ideas and structures.
-We will also focus on applying these techniques to crytography.
+We will also focus on applying these techniques to cryptography.
 
 If you're interested in joining, please fill out [this form](https://forms.gle/9rDSk2H9pSFd1qrk7). 
 Familiarity with Algebra 2/Precalculus is assumed.
@@ -38,17 +38,20 @@ Familiarity with Algebra 2/Precalculus is assumed.
       1. Base n number systems
       2. p-adic numbers (geometry)
   5. Euclidean Algorithm
-  6. Diophantine Equations
-  7. Fundamental Theorem of Arithmetic
-  8. Modulo tables
-  9. Modular Arithmetic (Number tricks, ISBNs, Calendars)
-  10. Rings and Fields
-  11. Basic Encryption Schemes
-  12. Sun-Zi Theorem (Chinese Remainder Theorem)
-  13. Modular Exponentiation
-  14. Fermat's Little Theorem
-  15. RSA Encryption
-  16. Sum of Squares
+  6. Fibonacci Numbers
+  7. The Golden Ratio
+  8. Diophantine Equations
+  9. Fundamental Theorem of Arithmetic
+  10. Modulo tables
+  11. Modular Arithmetic (Number tricks, ISBNs, Calendars)
+  12. Euclidean Rings and Fields
+  13. Basic Encryption Schemes
+  14. Sun-Zi Theorem (Chinese Remainder Theorem)
+  15. Modular Exponentiation
+  16. Fermat's Little Theorem
+  17. RSA Encryption
+  18. Gaussian Integers
+  19. Sum of Squares
       1. Fermat's sum of two squares
       2. Lagrange's sum of four squares
 
