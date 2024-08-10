@@ -23,8 +23,8 @@ redirect_from:
 -Carl Friedrich Gauss
 
 Number theory, which is the study of the integers, is one of the oldest branches of math and is still an active field of research today.
-The goal for this exploration is to 
-  1. to have fun with math
+The goal for this exploration is to
+  1. have fun and learn some new math
   2. practice creative and strategic thinking in problem solving
   3. explore how different ideas are needed for different structures and questions
   4. apply math techniques to explore cryptography
