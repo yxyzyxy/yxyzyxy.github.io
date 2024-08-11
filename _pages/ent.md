@@ -59,7 +59,9 @@ Familiarity with Algebra 2/Precalculus is assumed.
   16. Fermat's Little Theorem
   17. RSA Encryption
   18. Gaussian Integers
-  19. Sum of Squares
+  19. Quadratic Residues
+      1. Telephone
+  20. Sum of Squares
       1. Fermat's sum of two squares
       2. Lagrange's sum of four squares
 
