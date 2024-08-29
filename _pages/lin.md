@@ -1,4 +1,4 @@
-permalink: /ent/
+permalink: /lin/
 title: "Linear Algebra"
 excerpt: "page for linear algebra"
 author_profile: true
