@@ -1,3 +1,4 @@
+---
 permalink: /lin/
 title: "Linear Algebra"
 excerpt: "page for linear algebra"
