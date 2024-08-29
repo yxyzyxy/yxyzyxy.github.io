@@ -15,6 +15,8 @@ Courses and clubs this year:
 * Algebra 2 Honors
 * Geometry
 * [Number Theory](/ent/)
+* [Linear Algebra](/lin/)
+
 
 
 # Teaching elsewhere
