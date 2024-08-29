@@ -4,7 +4,6 @@ title: "Linear Algebra"
 excerpt: "page for linear algebra"
 author_profile: true
 redirect_from: 
-  - /lin/
   - /la/
   - /lin.html
 ---
